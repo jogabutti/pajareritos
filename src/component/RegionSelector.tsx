@@ -21,13 +21,12 @@ const RegionSelector: React.FC<Props> = ({ onSelect }) => {
     // Puedes cambiar 'country' por 'subnational1' para provincias/departamentos
   }, []); */
 
+
   return (
     <Autocomplete
+      disablePortal
       options={regions}
       getOptionLabel={(option) => option.name}
-      onChange={(_, value) => {
-        if (value) onSelect(value.code);
-      }}
       renderInput={(params) => (
         <TextField {...params} label="Selecciona una región" variant="outlined" />
       )}
