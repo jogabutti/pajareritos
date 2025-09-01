@@ -1,1 +1,9 @@
+# Ignorar dependencias y archivos temporales
 node_modules/
+build/
+dist/
+.env
+*.log
+build-temp/
+.DS_Store
+Thumbs.db
