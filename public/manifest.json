@@ -3,12 +3,12 @@
   "name": "Pajareritos App",
   "icons": [
     {
-      "src": "favicon.png",
+      "src": "favicon",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "favicon.png",
+      "src": "favicon",
       "sizes": "512x512",
       "type": "image/png"
     }
