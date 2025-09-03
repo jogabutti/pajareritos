@@ -3,12 +3,12 @@
   "name": "Avistadores App",
   "icons": [
     {
-      "src": "favicon",
+      "src": "pajareritos/favicon",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "favicon",
+      "src": "pajareritos/favicon",
       "sizes": "512x512",
       "type": "image/png"
     }
