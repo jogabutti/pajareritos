@@ -1,0 +1,1057 @@
+1;Rhea americana;Ñandú;Greater Rhea;Rheidae
+2;Rhea pennata;Choique;Lesser Rhea;Rheidae
+3;Tinamus solitarius;Macuco;Solitary Tinamou;Tinamidae
+4;Crypturellus obsoletus ;Tataupá rojizo;Brown Tinamou;Tinamidae
+5;Crypturellus undulatus;Tataupá listado;Undulated Tinamou;Tinamidae
+6;Crypturellus parvirostris;Tataupá chico;Small-billed Tinamou;Tinamidae
+7;Crypturellus tataupa;Tataupá común;Tataupa Tinamou;Tinamidae
+8;Rhynchotus rufescens;Colorada;Red-winged Tinamou;Tinamidae
+9;Rhynchotus maculicollis;Guaipo;Huayco Tinamou;Tinamidae
+10;Nothoprocta ornata;Inambú serrano;Ornate Tinamou;Tinamidae
+11;Nothoprocta cinerascens;Inambú montaraz;Brushland Tinamou;Tinamidae
+12;Nothoprocta pentlandii;Inambú silbón;Andean Tinamou;Tinamidae
+13;Nothura darwinii;Inambú pálido;Darwin's Nothura;Tinamidae
+14;Nothura maculosa;Inambú común;Spotted Nothura;Tinamidae
+15;Eudromia elegans;Martineta común;Elegant Crested-Tinamou;Tinamidae
+16;Eudromia formosa;Martineta chaqueña;Quebracho Crested-Tinamou;Tinamidae
+17;Tinamotis pentlandii;Quiula puneña;Puna Tinamou;Tinamidae
+18;Tinamotis ingoufi;Quiula patagónica;Patagonian Tinamou;Tinamidae
+19;Chauna torquata;Chajá;Southern Screamer;Anhimidae
+20;Dendrocygna bicolor;Sirirí colorado;Fulvous Whistling-Duck;Anatidae
+21;Dendrocygna viduata;Sirirí pampa;White-faced Whistling-Duck;Anatidae
+22;Dendrocygna autumnalis;Sirirí vientre negro;Black-bellied Whistling-Duck;Anatidae
+23;Anser anser;Ganso doméstico;Graylag Goose;Anatidae
+24;Cygnus melancoryphus;Cisne cuello negro;Black-necked Swan;Anatidae
+25;Coscoroba coscoroba;Coscoroba;Coscoroba Swan;Anatidae
+26;Oressochen jubatus;Ganso de monte;Orinoco Goose;Anatidae
+27;Oressochen melanopterus;Guayata;Andean Goose;Anatidae
+28;Chloephaga picta;Cauquén común;Upland Goose;Anatidae
+29;Chloephaga hybrida;Caranca;Kelp Goose;Anatidae
+30;Chloephaga poliocephala;Cauquén real;Ashy-headed Goose;Anatidae
+31;Chloephaga rubidiceps;Cauquén colorado;Ruddy-headed Goose;Anatidae
+32;Cairina moschata;Pato real;Muscovy Duck;Anatidae
+33;Sarkidiornis sylvicola;Pato crestudo;Comb Duck;Anatidae
+34;Callonetta leucophrys;Pato de collar;Ringed Teal;Anatidae
+35;Amazonetta brasiliensis;Pato cutirí;Brazilian Teal;Anatidae
+36;Merganetta armata;Pato de torrente;Torrent Duck;Anatidae
+37;Tachyeres patachonicus;Quetro volador;Flying Steamer-Duck;Anatidae
+38;Tachyeres pteneres;Quetro austral;Flightless Steamer-Duck;Anatidae
+39;Tachyeres trachypterus;Quetro malvinero;Falkland Steamer-Duck;Anatidae
+40;Tachyeres leucocephalus;Quetro cabeza blanca;White-headed Steamer-Duck;Anatidae
+41;Lophonetta specularioides;Pato crestón;Crested Duck;Anatidae
+42;Speculanas specularis;Pato de anteojos;Spectacled Duck;Anatidae
+43;Mareca sibilatrix;Pato overo;Chiloe Wigeon;Anatidae
+44;Anas flavirostris;Pato barcino;Yellow-billed Teal;Anatidae
+45;Anas georgica;Pato maicero;Yellow-billed Pintail;Anatidae
+46;Anas bahamensis;Pato gargantilla;White-cheeked Pintail;Anatidae
+47;Spatula puna;Pato puneño;Puna Teal;Anatidae
+48;Spatula versicolor;Pato capuchino;Silver Teal;Anatidae
+49;Spatula discors;Pato media luna;Blue-winged Teal;Anatidae
+50;Spatula cyanoptera;Pato colorado;Cinnamon Teal;Anatidae
+51;Heteronetta atricapilla;Pato cabeza negra;Black-headed Duck;Anatidae
+52;Oxyura ferruginea;Pato cuchara;Red Shoveler;Anatidae
+53;Anas clypeata;Pato cuchara boreal;Northern Shoveler;Anatidae
+54;Netta erythrophthalma;Pato castaño;Southern Pochard;Anatidae
+55;Netta peposaca;Pato picazo;Rosy-billed Pochard;Anatidae
+56;Mergus octosetaceus;Pato serrucho;Brazilian Merganser;Anatidae
+57;Nomonyx dominicus;Pato fierro;Masked Duck;Anatidae
+58;Oxyura ferruginea;Pato zambullidor grande;Ruddy Duck;Anatidae
+59;Oxyura vittata;Pato zambullidor chico;Lake Duck;Anatidae
+60;Penelope superciliaris;Yacupoí;Rusty-margined Guan;Cracidae
+61;Penelope dabbenei;Pava de monte alisera;Red-faced Guan;Cracidae
+62;Penelope obscura;Pava de monte común;Dusky-legged Guan;Cracidae
+63;Pipile jacutinga;Yacutinga;Black-fronted Piping-Guan;Cracidae
+64;Ortalis canicollis;Charata;Chaco Chachalaca;Cracidae
+65;Crax fasciolata;Muitú;Bare-faced;Cracidae
+66;Callipepla californica;Codorniz de California;California Quail;Odontophoridae
+67;Odontophorus capueira;Urú;Spot-winged Wood-Quail;Odontophoridae
+68;Lophura nycthemeia;Faisán plateado;Silver Pheasant 1;Phasianidae
+69;Rollandia rolland;Macá común;White-tufted Grebe;Podicipedidae
+70;Tachybaptus dominicus;Macá gris;Least Grebe;Podicipedidae
+71;Podilymbus podiceps;Macá pico grueso;Pied-billed Grebe;Podicipedidae
+72;Podiceps major;Macá grande;Great Grebe;Podicipedidae
+73;Podiceps occipitalis;Macá plateado;Silvery Grebe;Podicipedidae
+74;Podiceps juninensis;Macá andino;Northern Silvery Grebe;Podicipedidae
+75;Podiceps gallardoi;Macá tobiano;Hooded Grebe;Podicipedidae
+76;Phoenicopterus chilensis;Flamenco austral;Chilean Flamingo;Phoenicopteridae
+77;Phoenicoparrus andinus;Parina grande;Andean Flamingo;Phoenicopteridae
+78;Phoenicoparrus jamesi;Parina chica;James's Flamingo;Phoenicopteridae
+79;Aptenodytes patagonicus;Pingüino rey;King Penguin;Spheniscidae
+80;Aptenodytes forsteri;Pingüino emperador;Emperor Penguin;Spheniscidae
+81;Pygoscelis papua;Pingüino de vincha;Gentoo Penguin;Spheniscidae
+82;Pygoscelis antarcticus;Pingüino de barbijo;Chinstrap Penguin;Spheniscidae
+83;Pygoscelis adelie;Pingüino ojo blanco;Adelie Penguin;Spheniscidae
+84;Spheniscus magellanicus;Pingüino patagónico;Magellanic Penguin;Spheniscidae
+85;Eudyptes chrysolophus;Pingüino frente dorada;Macaroni Penguin;Spheniscidae
+86;Eudyptes chrysocome;Pingüino penacho amarillo;Rockhopper Penguin;Spheniscidae
+87;Diomedea epomophora;Albatros real;Royal Albatross;Diomedeidae
+88;Diomedea exulans;Albatros errante;Wandering Albatross;Diomedeidae
+89;Diomedea dabbenena;Albatros de Tristán;Tristan Albatross;Diomedeidae
+90;Diomedea sanfordi;Albatros real del norte;Northern Royal Albatross;Diomedeidae
+91;Phoebetria fusca;Albatros oscuro;Sooty Albatross;Diomedeidae
+92;Phoebetria palpebrata;Albratros manto claro;Light-mantled Albatross;Diomedeidae
+93;Thalassarche chlororhynchos;Albatros pico fino;Yellow-nosed Albatross;Diomedeidae
+94;Thalassarche melanophris;Albatros ceja negra;Black-browed Albatross;Diomedeidae
+95;Thalassarche chrysostoma;Albatros cabeza gris;Gray-headed Albatross;Diomedeidae
+96;Thalassarche bulleri;Albatros del Pacífico;Buller's Albatross;Diomedeidae
+97;Thalassarche cauta;Albatros corona blanca;White-capped Albatross;Diomedeidae
+98;Macronectes giganteus;Petrel gigante común;Southern Giant-Petrel;Procellariidae
+99;Macronectes halli;Petrel gigante oscuro;Northern Giant-Petrel;Procellariidae
+100;Fulmarus glacialoides;Petrel plateado;Southern Fulmar;Procellariidae
+101;Thalassoica antarctica;Petrel antártico;Antarctic Petrel;Procellariidae
+102;Daption capense;Petrel damero;Cape Petrel;Procellariidae
+103;Pagodroma nivea;Petrel de las nieves;Snow Petrel;Procellariidae
+104;Aphrodroma brevirostris;Petrel pizarra;Kerguelen Petrel;Procellariidae
+105;Pterodroma mollis;Petrel collar gris;Soft-plumaged Petrel;Procellariidae
+106;Pterodroma incerta;Petrel cabeza parda;Atlantic Petrel;Procellariidae
+107;Pterodroma lessonii;Petrel cabeza blanca;White-headed Petrel;Procellariidae
+108;Halobaena caerulea;Petrel azulado;Blue Petrel;Procellariidae
+109;Pachyptila turtur;Prión pico corto;Fairy Prion;Procellariidae
+110;Pachyptila vittata;Prión pico ancho;Broad-billed Prion;Procellariidae
+111;Pachyptila desolata;Prión pico grande;Antarctic Prion;Procellariidae
+112;Pachyptila belcheri;Prión pico fino;Slender-billed Prion;Procellariidae
+113;Procellaria cinerea;Petrel ceniciento;Gray Petrel;Procellariidae
+114;Procellaria aequinoctialis;Petrel barba blanca;White-chinned Petrel;Procellariidae
+115;Procellaria conspicillata;Petrel de anteojos;Spectacled Petrel;Procellariidae
+116;Procellaria westlandica;Petrel negro;Westland Petrel;Procellariidae
+117;Calonectris diomedea;Pardela grande;Cory's Shearwater;Procellariidae
+118;Calonectris edwardsii;Pardela de Cabo Verde;Cape Verde Shearwater;Procellariidae
+119;Ardenna grisea;Pardela oscura;Sooty Shearwater;Procellariidae
+120;Ardenna gravis;Pardela cabeza negra;Great Shearwater;Procellariidae
+121;Puffinus puffinus;Pardela boreal;Manx Shearwater;Procellariidae
+122;Pufíinus assimilis;Pardela chica;Little Shearwater;Procellariidae
+123;Pelecanoides urinatrix;Yunco común;Common Diving-Petrel;Procellariidae
+124;Pelecanoides georgicus;Yunco geórgico;South Georgia Diving-Petrel;Procellariidae
+125;Pelecanoides magellani;Yunco magallánico;Magellanic Diving-Petrel;Procellariidae
+126;Fregetta grallaria;Paíño vientre blanco;White-bellied Storm-Petrel;Hydrobatidae
+127;Fregetta tropica;Paíño vientre negro;Black-bellied Storm-Petrel;Hydrobatidae
+128;Oceanites oceanicus;Paíño común;Wilson's Storm-Petrel;Hydrobatidae
+129;Garrodia nereis;Paíño gris;Gray-backed Storm-Petrel;Hydrobatidae
+130;Pelagodroma marina;Paíño cara blanca;White-faced Storm-Petrel;Hydrobatidae
+131;Ciconia maguari;Cigüeña americana;Maguari Stork;Ciconiidae
+132;Jabiru mycteria;Yabirú;Jabiru;Ciconiidae
+133;Mycteria americana;Tuyuyú;Wood Stork;Ciconiidae
+134;Fregata magnificens;Ave fragata;Magnificent Frigatebird ;Fregatidae
+135;Sula leucogaster;Piquero pardo;Brown Booby;Sulidae
+136;Phalacrocorax gaimardi;Cormorán gris;Red-legged Cormorant;Phalacrocoracidae
+137;Phalacrocorax brasilianus;Biguá;Neotropic Cormorant;Phalacrocoracidae
+138;Phalacrocorax magellanicus;Cormorán cuello negro;Magellanic Cormorant;Phalacrocoracidae
+139;Phalacrocorax bougainvillii;Guanay;Guanay Cormorant;Phalacrocoracidae
+140;Phalacrocorax atriceps;Cormorán imperial;Imperial Cormorant;Phalacrocoracidae
+141;Phalacrocorax bransfieldensis;Cormorán antártico;Antartic Cormorant;Phalacrocoracidae
+142;Anhinga anhinga;Aninga;Anhinga;Anhingidae
+143;Pelecanus thagus;Pelícano pardo;Pelicano Peruvian;Pelecanidae
+144;Tigrisoma lineatum;Hocó colorado;Rufescent Tiger-Heron;Ardeidae
+145;Tigrisoma fasciatum;Hocó oscuro;Fasciated Tiger-Heron;Ardeidae
+146;Cochlearius cochlearius;Garza cucharona;Boat-billed Heron;Ardeidae
+147;Botaurus pinnatus;Mirasol grande;Pinnated Bittern;Ardeidae
+148;Ixobrychus exilis;Mirasol chico;Least Bittern;Ardeidae
+149;Ixobrychus involucris;Mirasol común;Stripe-backed Bittern;Ardeidae
+150;Nycticorax nycticorax;Garza bruja;Black-crowned Night-Heron;Ardeidae
+151;Butorides striata;Garcita azulada;Striated Heron;Ardeidae
+152;Bubulcus ibis;Garcita bueyera;Cattle Egret;Ardeidae
+153;Ardea cocoi;Garza mora;Cocoi Heron;Ardeidae
+154;Ardea alba;Garza blanca;Great Egret;Ardeidae
+155;Syrigma sibilatrix;Chiflón;Whistling Heron;Ardeidae
+156;Pilherodius pileatus;Garza real;Capped Heron;Ardeidae
+157;Egretta thula;Garcita blanca;Snowy Egret;Ardeidae
+158;Egretta caerulea;Garza azul;Little Blue Heron;Ardeidae
+159;Plegadis chihi;Cuervillo de cañada;White-faced Ibis;Threskiornithidae
+160;Plegadis ridgwayi;Cuervillo puneño;Puna Ibis;Threskiornithidae
+161;Mesembrinibis cayennensis;Tapicurú;Green Ibis;Threskiornithidae
+162;Phimosus infuscatus;Cuervillo cara pelada;Bare-faced Ibis;Threskiornithidae
+163;Theristicus caerulescens;Bandurria mora;Plumbeous Ibis;Threskiornithidae
+164;Theristicus caudatus;Bandurria boreal;Buff-necked Ibis;Threskiornithidae
+165;Theristicus melanopis;Bandurria austral;Black-faced Ibis;Threskiornithidae
+166;Platalea ajaja;Espátula rosada;Roseate Spoonbill;Threskiornithidae
+167;Cathartes aura;Jote cabeza colorada;Turkey Vulture;Cathartidae
+168;Cathartes burrovianus;Jote cabeza amarilla;Lesser Yellowheaded Vulture;Cathartidae
+169;Cathartes melambrotus;Jote cabeza amarilla grande;Greater Yellowheaded Vulture;Cathartidae
+170;Coragyps atratus;Jote cabeza negra;Black Vulture;Cathartidae
+171;Sarcoramphus papa;Jote real;King Vulture;Cathartidae
+172;Vultur gryphus;Cóndor andino;Andean Condor;Cathartidae
+173;Pandion haliaetus;Aguila pescadora;Osprey;Pandionidae
+174;Elanus leucurus;Milano blanco;White-tailed Kite;Accipitridae
+175;Gampsonyx swainsonii;Milano chico;Pearl Kite;Accipitridae
+176;Chondrohierax uncinatus;Milano pico garfio;Hook-billed Kite;Accipitridae
+177;Leptodon cayanensis;Milano cabeza gris;Gray-headed Kite;Accipitridae
+178;Elanoides forficatus;Milano tijereta;Swallow-tailed Kite;Accipitridae
+179;Morphnus guianensis;Aguila monera;Crested Eagle;Accipitridae
+180;Harpia harpyja;Harpía;Harpy Eagle;Accipitridae
+181;Spizaetus tyrannus;Aguila crestuda negra;Black Hawk-Eagle;Accipitridae
+182;Spizaetus melanoleucus;Aguila viuda;Black-and-white Hawk-Eagle;Accipitridae
+183;Spizaetus ornatus;Aguila crestuda real;Ornate Hawk-Eagle;Accipitridae
+184;Spizaetus isidori;Aguila poma;Black-and-chestnut Eagle;Accipitridae
+185;Busarellus nigricollis;Aguilucho pampa;Black-collared Hawk;Accipitridae
+186;Rostrhamus sociabilis;Caracolero;Snail Kite;Accipitridae
+187;Harpagus diodon;Milano de corbata;Rufous-thighed Kite;Accipitridae
+188;Ictinia mississippiensis;Milano boreal;Mississippi Kite;Accipitridae
+189;Ictinia plumbea;Milano plomizo;Plumbeous Kite;Accipitridae
+190;Circus cinereus;Gavilán ceniciento;Cinereous Harrier;Accipitridae
+191;Circus buffoni;Gavilán planeador;Long-winged Harrier;Accipitridae
+192;Accipiter poliogaster;Esparvero grande;Gray-bellied Hawk;Accipitridae
+193;Accipiter superciliosus;Esparvero chico;Tiny Hawk;Accipitridae
+194;Accipiter striatus;Esparvero común;Sharp-shinned Hawk;Accipitridae
+195;Accipiter bicolor;Esparvero variado;Bicolored Hawk;Accipitridae
+196;Accipiter chilensis;Esparvero austral;Austral (Chilean) Hawk;Accipitridae
+197;Geranospiza caerulescens;Gavilán patas largas;Crane Hawk;Accipitridae
+198;Buteogallus meridionalis;Aguilucho colorado;Savanna Hawk;Accipitridae
+199;Buteogallus urubitinga;Aguila negra;Great Black Hawk;Accipitridae
+200;Buteogallus solitarius;Aguila solitaria;Solitary Eagle;Accipitridae
+201;Buteogallus coronatus;Aguila coronada;Chaco Eagle;Accipitridae
+202;Rupornis magnirostris;Taguató;Roadside Hawk;Accipitridae
+203;Parabuteo unicinctus;Gavilán mixto;Harris's Hawk;Accipitridae
+204;Parabuteo leucorrhous;Taguató negro;White-rumped Hawk;Accipitridae
+205;Geranoaetus albicaudatus;Aguilucho alas largas;White-tailed Hawk;Accipitridae
+206;Geranoaetus polyosoma;Aguilucho común;Variable Hawk;Accipitridae
+207;Geranoaetus melanoleucus;Aguila mora;Black-chested Buzzard-Eagle;Accipitridae
+208;Pseudastur polionotus;Aguilucho blanco;Mantled Hawk;Accipitridae
+209;Buteo nitidus;Aguilucho gris;Gray-lined Hawk;Accipitridae
+210;Buteo platypterus;Aguilucho alas anchas;Broad-winged Hawk;Accipitridae
+211;Buteo albigula;Aguilucho andino;White-throated Hawk;Accipitridae
+212;Buteo brachyurus;Aguilucho cola corta;Short-tailed Hawk;Accipitridae
+213;Buteo swainsoni;Aguilucho langostero;Swainson's Hawk;Accipitridae
+214;Buteo albonotatus;Aguilucho negro;Zone-tailed Hawk;Accipitridae
+215;Buteo ventralis;Aguilucho cola rojiza;Rufous-tailed Hawk;Accipitridae
+216;Aramus guarauna;Carau;Limpkin;Aramidae
+217;Coturnicops notatus;Burrito enano;Speckled Rail;Rallidae
+218;Rallus antarcticus;Gallineta chica;Austral Rail;Rallidae
+219;Aramides ypecaha;Ipacaá;Giant Wood-Rail;Rallidae
+220;Aramides cajaneus;Chiricote;Gray-necked Wood-Rail;Rallidae
+221;Aramides saracura;Saracura;Slaty-breasted Wood-Rail;Rallidae
+222;Laterallus melanophaius;Burrito común;Rufous-sided Crake;Rallidae
+223;Laterallus exilis;Burrito pecho gris;Gray-breasted Crake;Rallidae
+224;Laterallus leucopyrrhus;Burrito colorado;Red-and-white Crake;Rallidae
+225;Hapalocrex flaviventer;Burrito amarillo;Yellow-breasted Crake;Rallidae
+226;Porzana spiloptera;Burrito negruzco;Dot-winged Crake;Rallidae
+227;Porphyriops melanops;Pollona pintada;Spot-flanked Gallinule;Rallidae
+228;Mustelirallus albicollis;Burrito grande;Ash-throated Crake;Rallidae
+229;Mustelirallus erythrops;Burrito pico rojo;Paint-billed Crake;Rallidae
+230;Pardirallus maculatus;Gallineta overa;Spotted Rail;Rallidae
+231;Pardirallus nigricans;Gallineta negruzca;Blackish Rail;Rallidae
+232;Pardirallus sanguinolentus;Gallineta común;Plumbeous Rail;Rallidae
+233;Gallinula galeata;Pollona negra;Common Gallinule;Rallidae
+234;Porphyrio martinica;Pollona azul;Purple Gallinule;Rallidae
+235;Porphyrio flavirostris;Pollona celeste;Azure Gallinule;Rallidae
+236;Fulica armillata;Gallareta ligas rojas;Red-gartered Coot;Rallidae
+237;Fulica rufifrons;Gallareta escudete rojo;Red-fronted Coot;Rallidae
+238;Fulica gigantea;Gallareta gigante;Giant Coot;Rallidae
+239;Fulica cornuta;Gallareta cornuda;Horned Coot;Rallidae
+240;Fulica ardesiaca;Gallareta andina;Slate-colored Coot;Rallidae
+241;Fulica leucoptera;Gallareta chica;White-winged Coot;Rallidae
+242;Heliornis fulica;Ipequí;Sungrebe;Heliornithidae
+243;Pluvialis dominica;Chorlo pampa;American Golden-Plover;Charadriidae
+244;Pluvialis squatarola;Chorlo ártico;Black-bellied Plover;Charadriidae
+245;Oreopholus ruficollis;Chorlo cabezón;Tawny-throated Dotterel;Charadriidae
+246;Vanellus cayanus;Chorlo de espolón;Pied Lapwing;Charadriidae
+247;Vanellus chilensis;Tero común;Southern Lapwing;Charadriidae
+248;Vanellus resplendens;Tero serrano;Andean Lapwing;Charadriidae
+249;Charadrius semipalmatus;Chorlito palmado;Semipalmated Plover;Charadriidae
+250;Charadrius collaris;Chorlito de collar;Collared Plover;Charadriidae
+251;Charadrius alticola;Chorlito puneño;Puna Plover;Charadriidae
+252;Charadrius falklandicus;Chorlito doble collar;Two-banded Plover;Charadriidae
+253;Charadrius modestus;Chorlito pecho canela;Rufous-chested Dotterel;Charadriidae
+254;Phegornis mitchellii;Chorlito de vincha;Diademed Sandpiper-Plover;Charadriidae
+255;Haematopus palliatus ;Ostrero común;American Oystercatcher;Haematopodidae
+256;Haematopus ater;Ostrero negro;Blackish Oys-tercatcher ;Haematopodidae
+257;Haematopus leucopodus;Ostrero austral;Magellanic Oystercatcher;Haematopodidae
+258;Himantopus mexicanus;Tero real;Black-necked Stilt;Recurvirostridae
+259;Recurvirostra andina;Avoceta andina;Andean Avocet;Recurvirostridae
+260;Chionis albus;Paloma antártica;Snowy Sheathbill;Chionidae
+261;Pluvianellus socialis;Chorlito ceniciento;Magellanic Plover;Pluvianellidae
+262;Bartramia longicauda;Batitú;Upland Sandpiper;Scolopacidae
+263;Numenius borealis;Playero esquimal;Eskimo Curlew;Scolopacidae
+264;Numenius phaeopus;Playero trinador;Whimbrel;Scolopacidae
+265;Limosa haemastica;Becasa de mar;Hudsonian Godwit;Scolopacidae
+266;Arenaria interpres;Vuelvepiedras;Ruddy Turnstone;Scolopacidae
+267;Calidris canutus;Playero rojizo;Red Knot;Scolopacidae
+268;Calidris virgata;Playero de rompiente;Surfbird;Scolopacidae
+269;Calidris himantopus;Playero zancudo;Stilt Sandpiper;Scolopacidae
+270;Calidris alba;Playerito blanco;Sanderling;Scolopacidae
+271;Calidris bairdii;Playerito unicolor;Baird's Sandpiper;Scolopacidae
+272;Calidris minutilla;Playerito menor;Least Sandpiper;Scolopacidae
+273;Calidris fuscicollis;Playerito rabadilla blanca;White-rumped Sandpiper;Scolopacidae
+274;Calidris subruficollis;Playerito canela;Buff-breasted Sandpiper;Scolopacidae
+275;Calidris melanotos;Playerito pectoral;Pectoral Sandpiper;Scolopacidae
+276;Calidris pusilla;Playerito enano;Semipalmated Sandpiper;Scolopacidae
+277;Limnodromus griseus;Becasa gris;Short-billed Dowitcher;Scolopacidae
+278;Limnodromus scolopaceus;Becasa pico largo;Long-billed Dowitcher;Scolopacidae
+279;Gallinago stricklandii;Becasina grande;Fuegian Snipe;Scolopacidae
+280;Gallinago undulata;Becasina gigante;Giant Snipe;Scolopacidae
+281;Gallinago paraguaiae;Becasina común;South American Snipe;Scolopacidae
+282;Gallinago andina;Becasina andina;Puna Snipe;Scolopacidae
+283;Phalaropus tricolor;Falaropo común;Wilson's Phal-arope;Scolopacidae
+284;Phalaropus lobatus;Falaropo pico fino;Red-necked Phalarope;Scolopacidae
+285;Phalaropus fulicarius;Falaropo pico grueso;Red Phalarope;Scolopacidae
+286;Actitis macularius;Playero manchado;Spotted Sandpiper;Scolopacidae
+287;Tringa solitaria;Pitotoy solitario;Solitary Sandpiper;Scolopacidae
+288;Tringa melanoleuca;Pitotoy grande;Greater Yellowlegs;Scolopacidae
+289;Tringa semipalmata;Playero ala blanca;Willet;Scolopacidae
+290;Tringa flavipes;Pitotoy chico;Lesser Yellowlegs;Scolopacidae
+291;Attagis gayi;Agachona grande;Rufous-bellied Seedsnipe;Thinocoridae
+292;Attagis malouinus;Agachona patagónica;White-bellied Seedsnipe;Thinocoridae
+293;Thinocorus orbignyianus;Agachona de collar;Gray-breasted Seedsnipe;Thinocoridae
+294;Thinocorus rumicivorus;Agachona chica;Least Seedsnipe;Thinocoridae
+295;Jacana jacana;Jacana;Wattled Jacana;Jacanidae
+296;Nycticryphes semicollaris;Aguatero;South American Painted-snipe;Rostratulidae
+297;Stercorarius chilensis;Escúa comun;Chilean Skua;Stercorariidae
+298;Stercorarius maccormicki;Escúa polar;South Polar Skua;Stercorariidae
+299;Stercorarius antarcticus;Escúa parda;Brown Skua;Stercorariidae
+300;Stercorarius pomarinus;Salteador grande;Pomarine Jaeger;Stercorariidae
+301;Stercorarius parasiticus;Salteador chico;Parasitic Jaeger;Stercorariidae
+302;Stercorarius longicaudus;Salteador coludo;Long-tailed Jaeger;Stercorariidae
+303;Chroicocephalus serranus;Gaviota andina;Andean Gull;Laridae
+304;Chroicocephalus maculipennis;Gaviota capucho café;Brown-hooded Gull;Laridae
+305;Chroicocephalus cirrocephalus;Gaviota capucho gris;Gray-hooded Gull;Laridae
+306;Leucophaeus scoresbii;Gaviota gris;Dolphin Gull;Laridae
+307;Leucophaeus pipixcan;Gaviota chica;Franklin's Gull;Laridae
+308;Larus atlanticus;Gaviota cangrejera;Olrog's Gull;Laridae
+309;Larus dominicanus;Gaviota cocinera;Kelp Gull;Laridae
+310;Sternula antillarum;Gaviotín chico boreal;Least Tern;Laridae
+311;Sternula superciliaris;Gaviotín chico común;Yellow-billed Tern;Laridae
+312;Phaetusa simplex;Atí;Large-billed Tern;Laridae
+313;Gelochelidon nilotica;Gaviotín pico grueso;Gull-billed Tern;Laridae
+314;Chlidonias niger;Gaviotín negro;Black Tern;Laridae
+315;Sterna hirundo;Gaviotín golondrina;Common Tern;Laridae
+316;Sterna dougallii;Gaviotín rosado;Roseate Tern;Laridae
+317;Sterna paradisaea;Gaviotín ártico;Arctic Tern;Laridae
+318;Sterna hirundinacea;Gaviotín sudamericano;South American Tern;Laridae
+319;Sterna vittata;Gaviotín antártico;Antarctic Tern;Laridae
+320;Sterna forsteri;Gaviotín de Forster;Forster's Tern;Laridae
+321;Sterna trudeaui;Gaviotín lagunero;Snowy-crowned Tern;Laridae
+322;Thalasseus sandvicensis;Gaviotín pico amarillo;Sandwich Tern;Laridae
+323;Thalasseus maximus;Gaviotín real;Royal Tern;Laridae
+324;Rynchops niger;Rayador;Black Skimmer;Rynchopidae
+325;Columba livia;Paloma doméstica;Rock Pigeon;Columbidae
+326;Patagioenas speciosa;Paloma trocal;Scaled Pigeon;Columbidae
+327;Patagioenas picazuro;Paloma picazuro;Picazuro Pigeon;Columbidae
+328;Patagioenas maculosa;Paloma ala manchada;Spot-winged Pigeon;Columbidae
+329;Patagioenas fasciata;Paloma nuca blanca;Band-tailed Pigeon;Columbidae
+330;Patagioenas araucana;Paloma araucana;Chilean Pigeon;Columbidae
+331;Patagioenas cayennensis;Paloma colorada;Pale-vented Pigeon;Columbidae
+332;Patagioenas plumbea;Paloma plomiza;Plumbeous Pigeon;Columbidae
+333;Geotrygon montana;Paloma montera castaña;Ruddy QuailDove;Columbidae
+334;Geotrygon violacea;Paloma montera violácea;Violaceous Quail-Dove;Columbidae
+335;Leptotila verreauxi;Yerutí común;White-tipped Dove;Columbidae
+336;Leptotila rufaxilla;Yerutí colorada;Gray-fronted Dove;Columbidae
+337;Leptotila megalura;Yerutí yungueña;Large-tailed Dove;Columbidae
+338;Zentrygon frenata;Paloma montera grande;White-throated Quail-Dove;Columbidae
+339;Zenaida meloda;Torcaza ala blanca;West Peruvian Dove;Columbidae
+340;Zenaida auriculata;Torcaza común;Eared Dove;Columbidae
+341;Columbina minuta;Torcacita enana;Plain-breasted Ground Dove;Columbidae
+342;Columbina talpacoti;Torcacita colorada;Ruddy Ground Dove;Columbidae
+343;Columbina squammata;Torcacita escamada;Scaled Dove;Columbidae
+344;Columbina picui;Torcacita común;Picui Ground Dove;Columbidae
+345;Claravis pretiosa;Palomita azulada;Blue Ground Dove;Columbidae
+346;Paraclaravis geoffroyi;Palomita morada;Purple-winged Ground Dove;Columbidae
+347;Metriopelia ceciliae;Palomita moteada;Bare-faced Ground Dove;Columbidae
+348;Metriopelia morenoi;Palomita ojo desnudo;Bare-eyed Ground Dove;Columbidae
+349;Metriopelia melanoptera;Palomita cordillerana;Black-winged Ground Dove;Columbidae
+350;Metriopelia aymara;Palomita dorada;Golden-spotted Ground Dove;Columbidae
+351;Guira guira;Pirincho;Guira Cuckoo;Cuculidae
+352;Crotophaga major;Anó grande;Greater Ani;Cuculidae
+353;Crotophaga ani;Anó chico;Smooth-billed;Cuculidae
+354;Crotophaga sulcirostris;Anó pico surcado;Groove-billed Ani;Cuculidae
+355;Tapera naevia;Crespín;Striped Cuckoo;Cuculidae
+356;Dromococcyx phasianellus;Yasiyateré grande;Pheasant Cuckoo;Cuculidae
+357;Dromococcyx pavoninus;Yasiyateré chico;Pavonine Cuckoo;Cuculidae
+358;Coccycua cinerea;Cuclillo chico;Ash-colored Cuckoo;Cuculidae
+359;Piaya cayana;Tingazú;Squirrel Cuckoo;Cuculidae
+360;Coccyzus melacoryphus;Cuclillo canela;Dark-billed Cuckoo;Cuculidae
+361;Coccyzus americanus;Cuclillo pico amarillo;Yellow-billed Cuckoo;Cuculidae
+362;Coccyzus euleri;Cuclillo ceniciento;Pearly-breasted Cuckoo;Cuculidae
+363;Coccyzus erythropthalmus;Cuclillo ojo colorado;Black-billed Cuckoo;Cuculidae
+364;Tyto alba;Lechuza de campanario;Barn Owl;Tytonidae
+365;Megascops choliba;Alilicucú común;Tropical Screech-Owl;Strigidae
+366;Megascops hoyi;Alilicucú yungüeño;Montane Forest Screech-Owl;Strigidae
+367;Megascops atricapilla;Alilicucú grande;Black-capped Screech-Owl;Strigidae
+368;Megascops sanctaecatarinae;Alilicucú orejudo;Long-tufted Screech-Owl;Strigidae
+369;Pulsatrix perspicillata;Lechuzón mocho grande;Spectacled Owl;Strigidae
+370;Pulsatrix koeniswaldiana;Lechuzón mocho chico;Tawny-browed Owl;Strigidae
+371;Bubo virginianus;Ñacurutú;Great Horned Owl;Strigidae
+372;Bubo magellanicus;Tucúquere;Magellanic Horned Owl;Strigidae
+373;Strix hylophila;Lechuza listada;Rusty-barred Owl;Strigidae
+374;Strix chacoensis;Lechuza bataraz chaqueña;Chaco Owl;Strigidae
+375;Strix rufipes;Lechuza bataraz austral;Rufous-legged Owl;Strigidae
+376;Ciccaba virgata;Lechuza estriada;Mottled Owl;Strigidae
+377;Ciccaba huhula;Lechuza negra;Black-banded Owl;Strigidae
+378;Glaucidium bolivianum;Caburé yungueño;Yungas Pygmy-Owl;Strigidae
+379;Glaucidium brasilianum;Caburé chico;Ferruginous Pygmy-Owl;Strigidae
+380;Glaucidium nana;Caburé grande;Austral Pygmy-Owl;Strigidae
+381;Athene cunicularia;Lechucita de las vizcacheras;Burrowing Owl;Strigidae
+382;Aegolius harrisii;Lechucita canela;Buff-fronted Owl;Strigidae
+383;Asio clamator;Lechuzón orejudo;Striped Owl;Strigidae
+384;Asio stygius;Lechuzón negruzco;Stygian Owl;Strigidae
+385;Asio flammeus;Lechuzón campestre;Short-eared Owl;Strigidae
+386;Nyctibius aethereus;Urutaú coludo;Long-tailed Potoo;Nyctibiidae
+387;Nyctibius griseus;Urutaú común;Common Potoo;Nyctibiidae
+388;Chordeiles nacunda;Ñacundá;Nacunda Nighthawk;Caprimulgidae
+389;Chordeiles pusillus;Añapero chico;Least Night-hawk;Caprimulgidae
+390;Chordeiles acutipennis;Añapero mediano;Lesser Nighthawk;Caprimulgidae
+391;Chordeiles minor;Añapero boreal;Common Nighthawk;Caprimulgidae
+392;Lurocalis semitorquatus;Añapero castaño;Short-tailed Nighthawk;Caprimulgidae
+393;Systellura longirostris;Atajacaminos ñañarca;Band-winged Nightjar;Caprimulgidae
+394;Nyctidromus albicollis;Curiango;Common Pauraque;Caprimulgidae
+395;Eleothreptus anomalus;Atajacaminos ala negra;Sickle-winged Nightjar;Caprimulgidae
+396;Uropsalis lyra;Atajacaminos lira;Lyre-tailed Nightjar;Caprimulgidae
+397;Setopagis parvula;Atajacaminos chico;Little Nightjar;Caprimulgidae
+398;Hydropsalis maculicaudus;Atajacaminos enano;Spot-tailed Nightjar;Caprimulgidae
+399;Hydropsalis torquata;Atajacaminos tijera;Scissor-tailed Nightjar;Caprimulgidae
+400;Macropsalis forcipata;Atajacaminos coludo;Long-trained Nightjar;Caprimulgidae
+401;Nyctiphrynus ocellatus;Atajacaminos ocelado;Ocellated Poorwill;Caprimulgidae
+402;Antrostomus sericocaudatus;Atajacaminos oscuro;Silky-tailed Nightjar;Caprimulgidae
+403;Antrostomus rufus;Atajacaminos colorado;Rufous Nightjar;Caprimulgidae
+404;Cypseloides rothschildi;Vencejo pardusco;Rothschild's Swift;Apodidae
+405;Cypseloides fumigatus;Vencejo negruzco;Sooty Swift;Apodidae
+406;Cypseloides senex;Vencejo de cascada;Great Dusky Swift;Apodidae
+407;Streptoprocne zonaris;Vencejo de collar;White-collared Swift;Apodidae
+408;Streptoprocne biscutata;Vencejo nuca blanca;Biscutate Swift;Apodidae
+409;Chaetura cinereiventris;Vencejo chico;Gray-rumped Swift;Apodidae
+410;Chaetura pelagica;Vencejo de chimenea;Chimney Swift;Apodidae
+411;Chaetura meridionalis;Vencejo de tormenta;Sick's Swift;Apodidae
+412;Tachornis squamata;Vencejo tijereta;Forl-tailed Palm Swift;Apodidae
+413;Aeronautes montivagus;Vencejo montañés;White-tipped Swift;Apodidae
+414;Aeronautes andecolus;Vencejo blanco;Andean Swift;Apodidae
+415;Florisuga fusca;Picaflor negro;Black Jacobin;Trochilidae
+416;Florisuga mellivora;Picaflor cuello blanco;White-necked Jacobin;Trochilidae
+417;Phaethornis pretrei;Ermitaño canela;Planalto Hermit;Trochilidae
+418;Phaethornis eurynome;Ermitaño escamado;Scale-throated Hermit;Trochilidae
+419;Colibri coruscans;Colibrí grande;Sparkling Violetear;Trochilidae
+420;Colibri serrirostris;Colibrí mediano;White-vented Violetear;Trochilidae
+421;Polytmus guainumbi;Picaflor de antifaz;White-tailed Goldenthroat;Trochilidae
+422;Chrysolampis mosquitus;Picaflor topacio;Ruby-topaz Hummingbird;Trochilidae
+423;Anthracothorax nigricollis;Picaflor vientre negro;Black-throated Mango;Trochilidae
+424;Sephanoides sephaniodes;Picaflor rubí;Green-backed Firecrown;Trochilidae
+425;Lophornis chalybeus;Coqueta verde;Festive Coquette;Trochilidae
+426;Adelomyia melanogenys;Picaflor yungueño;Speckled Hummingbird;Trochilidae
+427;Sappho sparganurus;Picaflor cometa;Red-tailed Comet;Trochilidae
+428;Oreotrochilus estella;Picaflor puneño;Andean Hillstar;Trochilidae
+429;Oreotrochilus leucopleurus;Picaflor andino;White-sided Hillstar;Trochilidae
+430;Oreotrochilus adela;Picaflor andino castaño;Wedge-tailed Hillstar;Trochilidae
+431;Eriocnemis glaucopoides;Picaflor frente azul;Blue-capped Puffleg;Trochilidae
+432;Patagona gigas;Picaflor gigante;Giant Hummingbird;Trochilidae
+433;Heliomaster longirostris;Picaflor picudo;Long-billed Starthroat;Trochilidae
+434;Heliomaster squamosus;Picaflor escamado;Stripe-breasted Starthroat;Trochilidae
+435;Heliomaster furcifer;Picaflor de barbijo;Blue-tufted Starthroat;Trochilidae
+436;Microstilbon burmeisteri;Picaflor enano;Slender-tailed Woodstar;Trochilidae
+437;Calliphlox amethystina;Picaflor amatista;Amethyst Woodstar;Trochilidae
+438;Chlorostilbon lucidus;Picaflor común;Glittering-bellied Emerald;Trochilidae
+439;Stephanoxis loddigesii;Picaflor copetón;Purple-crowned Plovercrest;Trochilidae
+440;Eupetomena macroura;Picaflor tijera;Swallow-tailed Hummingbird;Trochilidae
+441;Thalurania furcata;Picaflor zafiro;Fork-tailed Woodnymph;Trochilidae
+442;Thalurania glaucopis;Picaflor corona violácea;Violet-capped Woodnymph;Trochilidae
+443;Leucochloris albicollis;Picaflor garganta blanca;White-throated Hummingbird;Trochilidae
+444;Amazilia chionogaster;Picaflor vientre blanco;White-bellied Hummingbird;Trochilidae
+445;Amazilia versicolor;Picaflor esmeralda;Versicolored Emerald;Trochilidae
+446;Amazilia lactea;Picaflor garganta azul;Sapphire-spangled Emerald;Trochilidae
+447;Hylocharis sapphirina;Picaflor cola castaña;Rufous-throated Sapphire;Trochilidae
+448;Hylocharis cyanus;Picaflor lazulita;White-chinned Sapphire;Trochilidae
+449;Hylocharis chrysura;Picaflor bronceado;Gilded Hummingbird;Trochilidae
+450;Trogon curucui;Surucuá aurora;Blue-crowned Trogon;Trogonidae
+451;Trogon surrucura;Surucuá común;Surucua Trogon;Trogonidae
+452;Trogon rufus;Surucuá amarillo;Black-throated Trogon;Trogonidae
+453;Megaceryle torquata;Martín pescador grande;Ringed Kingfisher;Alcedinidae
+454;Chloroceryle amazona;Martín pescador mediano;Amazon Kingfisher;Alcedinidae
+455;Chloroceryle americana;Martín pescador chico;Green Kingfisher;Alcedinidae
+456;Chloroceryle aenea;Martín pescador enano;American Pygmy Kingfisher;Alcedinidae
+457;Baryphthengus ruficapillus;Yeruvá;Rufous-capped A Motmot;Momotidae
+458;Momotus momota;Burgo;Amazonian Motmot;Momotidae
+459;Notharchus swainsoni;Chacurú grande;Buff-bellied Puffbird;Galbulidae
+460;Nystalus chacuru;Chacurú cara negra;White-eared Puffbird;Galbulidae
+461;Nystalus maculatus;Durmilí;Spot-backed Puffbird;Galbulidae
+462;Nonnula rubecula;Chacurú chico;Rusty-breasted Nunlet;Galbulidae
+463;Ramphastos toco;Tucán grande;Toco Toucan;Ramphastidae
+464;Ramphastos dicolorus;Tucán pico verde;Red-breasted Toucan;Ramphastidae
+465;Selenidera maculirostris;Arasarí chico;Spot-billed Toucanet;Ramphastidae
+466;Pteroglossus bailloni;Arasarí banana;Saffron Tou-canet;Ramphastidae
+467;Pteroglossus castanotis;Arasarí fajado;Chestnut-eared Aracari;Ramphastidae
+468;Picumnus cirratus;Carpinterito común;White-barred Piculet;Picidae
+469;Picumnus dorbignyanus;Carpinterito manchado;Ocellated Piculet;Picidae
+470;Picumnus temminckii;Carpinterito cuello canela;Ochre-collared Piculet;Picidae
+471;Picumnus nebulosus;Carpinterito ocráceo;Mottled Piculet;Picidae
+472;Melanerpes candidus;Carpintero blanco;White Woodpecker;Picidae
+473;Melanerpes flavifrons;Carpintero arcoiris;Yellow-fronted Woodpecker;Picidae
+474;Melanerpes cactorum;Carpintero del cardón;White-fronted Woodpecker;Picidae
+475;Dryobates fumigatus;Carpintero oliva oscuro;Smoky-brown Woodpecker;Picidae
+476;Dryobates spilogaster;Carpintero oliva manchado;White-spotted Woodpecker;Picidae
+477;Veniliornis mixtus;Carpintero bataraz chico;Checkered Woodpecker;Picidae
+478;Veniliornis lignarius;Carpinterito bataraz austral;Striped Woodpecker;Picidae
+479;Dryobates passerinus;Carpintero oliva chico;Little Woodpecker;Picidae
+480;Dryobates frontalis;Carpintero oliva yungueño;Dot-fronted Woodpecker;Picidae
+481;Piculus chrysochloros;Carpintero dorado común;Golden-green Woodpecker;Picidae
+482;Piculus aurulentus;Carpintero dorado verdoso;White-browed Woodpecker;Picidae
+483;Colaptes rubiginosus;Carpintero dorado gris;Golden-olive Woodpecker;Picidae
+484;Colaptes melanochloros;Carpintero real;Green-barred Woodpecker;Picidae
+485;Colaptes pitius;Carpintero pitío;Chilean Flicker;Picidae
+486;Colaptes rupicola;Carpintero andino;Andean Flicker;Picidae
+487;Colaptes campestris;Carpintero campestre;Campo Flicker;Picidae
+488;Celeus galeatus;Carpintero cara canela;Helmeted Woodpecker;Picidae
+489;Celeus lugubris;Carpintero copete pajizo;Pale-crested Woodpecker;Picidae
+490;Celeus flavescens;Carpintero copete amarillo;Blond-crested Woodpecker;Picidae
+491;Dryocopus lineatus;Carpintero garganta estriada;Lineated Woodpecker;Picidae
+492;Dryocopus schulzii;Carpintero negro;Black-bodied Woodpecker;Picidae
+493;Campephilus robustus;Carpintero grande;Robust Woodpecker;Picidae
+494;Campephilus melanoleucos;Carpintero garganta negra;Crimson-crested Woodpecker;Picidae
+495;Campephilus leucopogon;Carpintero lomo blanco;Cream-backed Woodpecker;Picidae
+496;Campephilus magellanicus;Carpintero gigante;Magellanic Woodpecker;Picidae
+497;Cariama cristata;Chuña patas rojas;Red-legged Seriema;Cariamidae
+498;Chunga burmeisteri;Chuña patas negras;Black-legged Seriema;Cariamidae
+499;Herpetotheres cachinnans;Guaicurú;Laughing Falcon;Falconidae
+500;Micrastur ruficollis;Halcón montés chico;Barred Forest-Falcon;Falconidae
+501;Micrastur semitorquatus;Halcón montés grande;Collared Forest-Falcon;Falconidae
+502;Spiziapteryx circumcincta;Halconcito gris;Spot-winged Falconet;Falconidae
+503;Caracara plancus;Carancho;Southern Caracara;Falconidae
+504;Phalcoboenus megalopterus;Matamico andino;Mountain Caracara;Falconidae
+505;Phalcoboenus albogularis;Matamico blanco;White-throated Caracara;Falconidae
+506;Phalcoboenus australis;Matamico grande;Striated Cara-cara;Falconidae
+507;Milvago chimachima;Chimachima;Yellow-headed Caracara;Falconidae
+508;Milvago chimango;Chimango;Chimango Caracara;Falconidae
+509;Falco sparverius;Halconcito colorado;American Kestrel;Falconidae
+510;Falco rufigularis;Halcón negro chico;Bat Falcon;Falconidae
+511;Falco deiroleucus;Halcón negro grande;Orange-breasted Falcon;Falconidae
+512;Falco femoralis;Halcón plomizo;Aplomado Falcon;Falconidae
+513;Falco peregrinus;Halcón peregrino;Peregrine Falcon;Falconidae
+514;Psilopsiagon aymara;Catita serrana grande;Gray-hooded Parakeet;Psittacidae
+515;Psilopsiagon aurifrons;Catita serrana chica;Mountain Parakeet;Psittacidae
+516;Bolborhynchus orbygnesius;Catita andina;Andean Parakeet;Psittacidae
+517;Myiopsitta monachus;Cotorra común;Monk Parakeet;Psittacidae
+518;Brotogeris chiriri;Catita chirirí;Yellow-chev-roned Parakeet;Psittacidae
+519;Pionopsitta pileata;Catita cabeza roja;Pileated Parrot;Psittacidae
+520;Pionus maximiliani;Loro maitaca;Scaly-headed Parrot;Psittacidae
+521;Amazona vinacea;Loro vinoso;Vinaceous-breasted Parrot;Psittacidae
+522;Amazona tucumana;Loro alisero;Tucuman Parrot;Psittacidae
+523;Amazona pretrei;Charao;Red-spectacled Parrot;Psittacidae
+524;Amazona aestiva;Loro hablador;Turquoise-fronted Parrot;Psittacidae
+525;Forpus xanthopterygius;Catita enana;Blue-winged Parrotlet;Psittacidae
+526;Pyrrhura frontalis;Chiripepé cabeza verde;Maroon-bellied Parakeet;Psittacidae
+527;Pyrrhura molinae;Chiripepé cabeza parda;Green-cheeked Parakeet;Psittacidae
+528;Enicognathus ferrugineus;Cachaña;Austral Parakeet;Psittacidae
+529;Enicognathus leptorhynchus;Choroy;Slender-billed Parakeet;Psittacidae
+530;Cyanoliseus patagonus;Loro barranquero;Burrowing Parakeet;Psittacidae
+531;Anodorhynchus glaucus;Guacamayo azul;Glaucous Macaw;Psittacidae
+532;Eupsittula aurea;Calancate frente dorada;Peach-fronted Parakeet;Psittacidae
+533;Aratinga nenday;Ñanday;Nanday Parakeet;Psittacidae
+534;Primolius maracana;Maracaná lomo rojo;Blue-winged Macaw;Psittacidae
+535;Primolius auricollis;Maracaná cuello dorado;Yellow-collared Macaw;Psittacidae
+536;Ara militaris;Guacamayo verde;Military Macaw;Psittacidae
+537;Ara chloropterus;Guacamayo rojo;Red-and-green Macaw;Psittacidae
+538;Thectocercus acuticaudatus;Calancate cabeza azul;Blue-crowned Parakeet;Psittacidae
+539;Psittacara mitratus;Calancate cara roja;Mitred Parakeet;Psittacidae
+540;Psittacara leucophthalmus;Calancate ala roja;White-eyed Parakeet;Psittacidae
+541;Hypoedaleus guttatus;Batará goteado;Spot-backed Antshrike;Thamnophilidae
+542;Batara cinerea;Batará gigante;Giant Antshrike;Thamnophilidae
+543;Mackenziaena leachii;Batará pintado;Large-tailed Antshrike;Thamnophilidae
+544;Mackenziaena severa;Batará copetón;Tufted Antshrike;Thamnophilidae
+545;Taraba major;Chororó;Great Antshrike;Thamnophilidae
+546;Biatas nigropectus;Batará pecho negro;White-bearded Antshrike;Thamnophilidae
+547;Thamnophilus doliatus;Choca listada;Barred Antshrike;Thamnophilidae
+548;Thamnophilus ruficapillus;Choca corona rojiza;Rufous-capped Antshrike;Thamnophilidae
+549;Thamnophilus caerulescens;Choca común;Variable Antshrike;Thamnophilidae
+550;Dysithamnus mentalis;Choca amarilla;Plain Antvireo;Thamnophilidae
+551;Myrmorchilus strigilatus;Batará estriado;Stripe-backed Antbird;Thamnophilidae
+552;Herpsilochmus atricapillus;Tiluchí plomizo;Black-capped Antwren;Thamnophilidae
+553;Herpsilochmus rufimarginatus;Tiluchí ala rojiza;Rufous-winged Antwren;Thamnophilidae
+554;Drymophila rubricollis;Tiluchí colorado;Bertoni's Antbird;Thamnophilidae
+555;Drymophila malura;Tiluchí estriado;Dusky-tailed Antbird;Thamnophilidae
+556;Terenura maculata;Tiluchí enano;Streak-capped Antwren;Thamnophilidae
+557;Pyriglena leucoptera;Batará negro;White-shouldered Fire-eye;Thamnophilidae
+558;Melanopareia maximiliani;Gallito de collar;Olive-crowned Crescentchest;Melanopareiidae
+559;Conopophaga lineata;Chupadientes;Rufous Gnateater;Conopophagidae
+560;Grallaria varia;Chululú pintado;Variegated Antpitta;Grallariidae
+561;Grallaria albigula;Chululú cabeza rojiza;White-throated Antpitta;Grallariidae
+562;Hylopezus nattereri;Chululú chico;Speckle-breasted Antpitta;Grallariidae
+563;Psilorhamphus guttatus;Gallito overo;Spotted Bamboowren;Rhinocryptidae
+564;Rhinocrypta lanceolata;Gallito copetón;Crested Gallito;Rhinocryptidae
+565;Teledromas fuscus;Gallito arena;Sandy Gallito;Rhinocryptidae
+566;Pteroptochos castaneus;Huet-huet castaño;Chestnut-throated Huet-huet;Rhinocryptidae
+567;Pteroptochos tarnii;Huet-huet;Black-throated Huet-huet;Rhinocryptidae
+568;Scelorchilus rubecula;Chucao;Chucao Tapaculo;Rhinocryptidae
+569;Eugralla paradoxa;Churrín grande;Ochre-flanked Tapaculo;Rhinocryptidae
+570;Scytalopus pachecoi;Churrín plomizo;Planalto Tapaculo;Rhinocryptidae
+571;Scytalopus magellanicus;Churrín andino;Magellanic Tapaculo;Rhinocryptidae
+572;Scytalopus zimmeri;Churrín quebradeño;Zimmer's Tapaculo;Rhinocryptidae
+573;Scytalopus superciliaris;Churrín ceja blanca;White-browed Tapaculo;Rhinocryptidae
+574;Chamaeza campanisona;Tovaca común;Short-tailed Antthrush;Formicariidae
+575;Chamaeza ruficauda;Tovaca colorada;Rufous-tailed Antthrush;Formicariidae
+576;Sclerurus scansor;Raspahojas;Rufous-breasted Leaftosser;Furnariidae
+577;Geositta tenuirostris;Caminera picuda;Slender-billed Miner;Furnariidae
+578;Geositta cunicularia;Caminera común;Common Miner;Furnariidae
+579;Geositta punensis;Caminera puneña;Puna Miner;Furnariidae
+580;Geositta rufipennis;Caminera colorada;Rufous-banded Miner;Furnariidae
+581;Geositta antarctica;Caminera patagónica;Short-billed Miner;Furnariidae
+582;Geositta isabellina;Caminera grande;Creamy-rumped Miner;Furnariidae
+583;Sittasomus griseicapillus;Tarefero;Olivaceous Woodcreeper;Furnariidae
+584;Dendrocincla turdina;Arapasú;Plain-winged Woodcreeper;Furnariidae
+585;Dendrocolaptes picumnus;Trepador colorado;Black-banded Woodcreeper;Furnariidae
+586;Dendrocolaptes platyrostris;Trepador oscuro;Planalto Woodcreeper;Furnariidae
+587;Xiphocolaptes albicollis;Trepador garganta blanca;White-throated Woodcreeper;Furnariidae
+588;Xiphocolaptes major;Trepador gigante;Great Rufous Woodcreeper;Furnariidae
+589;Xiphorhynchus fuscus;Chinchero enano;Lesser Woodcreeper;Furnariidae
+590;Campylorhamphus trochilirostris;Picapalo colorado;Red-billed Scythebill;Furnariidae
+591;Campylorhamphus falcularius;Picapalo oscuro;Black-billed Scythebill;Furnariidae
+592;Drymornis bridgesii;Chinchero grande;Scimitar-billed Woodcreeper;Furnariidae
+593;Lepidocolaptes angustirostris;Chinchero chico;Narrow-billed Woodcreeper;Furnariidae
+594;Lepidocolaptes falcinellus;Chinchero escamado;Scalloped Woodcreeper;Furnariidae
+595;Xenops minutus;Picolezna chico;Plain Xenops;Furnariidae
+596;Xenops rutilans;Picolezna rojizo;Streaked Xenops;Furnariidae
+597;Pygarrhichas albogularis;Picolezna patagónico;White-throated Treerunner;Furnariidae
+598;Ochetorhynchus andaecola;Bandurrita cola castaña;Rock Earthcreeper;Furnariidae
+599;Ochetorhynchus ruficaudus;Bandurrita pico recto;Straight-billed Earthcreeper;Furnariidae
+600;Ochetorhynchus phoenicurus;Bandurrita patagónica;Band-tailed Earthcreeper;Furnariidae
+601;Tarphonomus harterti;Bandurrita boliviana;Bolivian Earthcreeper;Furnariidae
+602;Tarphonomus certhioides;Bandurrita chaqueña;Chaco Earthcreeper;Furnariidae
+603;Furnarius rufus;Hornero;Rufous Hornero;Furnariidae
+604;Furnarius cristatus;Hornerito copetón;Crested Hornero;Furnariidae
+605;Lochmias nematura;Macuquito;Sharp-tailed Streamcreeper;Furnariidae
+606;Phleocryptes melanops;Junquero;Wren-like Rushbird;Furnariidae
+607;Limnornis curvirostris;Pajonalera pico curvo;Curve-billed Reedhaunter;Furnariidae
+608;Upucerthia saturatior;Bandurrita del bosque;Patagonian Forest Earthcreeper;Furnariidae
+609;Upucerthia dumetaria;Bandurrita común;Scale-throated Earthcreeper;Furnariidae
+610;Upucerthia validirostris;Bandurrita andina;Buff-breasted Earthcreeper;Furnariidae
+611;Cinclodes fuscus;Remolinera común;Buff-winged Cinclodes;Furnariidae
+612;Cinclodes antarcticus;Remolinera negra;Blackish Cinclodes;Furnariidae
+613;Cinclodes comechingonus;Remolinera serrana;Cordoba Cinclodes;Furnariidae
+614;Cinclodes olrogi;Remolinera chocolate;Olrog's Cinclodes;Furnariidae
+615;Cinclodes albiventris;Remolinera acanelada;Cream-winged Cinclodes;Furnariidae
+616;Cinclodes oustaleti;Remolinera chica;Gray-flanked Cinclodes;Furnariidae
+617;Cinclodes atacamensis;Remolinera castaña;White-winged Cinclodes;Furnariidae
+618;Cinclodes patagonicus;Remolinera araucana;Dark-bellied Cinclodes;Furnariidae
+619;Heliobletus contaminatus;Picolezna estriado;Sharp-billed Treehunter;Furnariidae
+620;Philydor atricapillus;Ticotico cabeza negra;Black-capped Foliage-gleaner;Furnariidae
+621;Philydor rufum;Ticotico grande;Buff-fronted Foliage-gleaner;Furnariidae
+622;Anabacerthia amaurotis;Ticotico ceja blanca;White-browed Foliage-gleaner;Furnariidae
+623;Anabacerthia lichtensteini;Ticotico ocráceo;Ochre-breasted Foliage-gleaner;Furnariidae
+624;Syndactyla rufosuperciliata;Ticotico común;Buff-browed Foliage-gleaner;Furnariidae
+625;Clibanornis dendrocolaptoides;Tacuarero;Canebrake Groundcreeper;Furnariidae
+626;Automolus leucophthalmus;Ticotico ojo blanco;White-eyed Foliage-gleaner;Furnariidae
+627;Margarornis squamiger;Ticotico perlado;Pearled Treerunner;Furnariidae
+628;Aphrastura spinicauda;Rayadito;Thorn-tailed Rayadito;Furnariidae
+629;Sylviorthorhynchus desmursii;Colilarga;Des Murs's Wiretail;Furnariidae
+630;Leptasthenura fuliginiceps;Coludito canela;Brown-capped Tit-Spinetail;Furnariidae
+631;Sylviorthorhynchus yanacensis;Coludito puneño;Tawny Tit-Spinetail;Furnariidae
+632;Leptasthenura platensis;Coludito copetón;Tufted TitSpinetail;Furnariidae
+633;Leptasthenura aegithaloides;Coludito cola negra;Plain-mantled Tit-Spinetail;Furnariidae
+634;Leptasthenura setaria;Coludito de los pinos;Araucaria Tit-Spinetail;Furnariidae
+635;Phacellodomus rufifrons;Espinero frente rojiza;Rufous-fronted Thornbird;Furnariidae
+636;Phacellodomus striaticeps;Espinero andino;Streak-fronted Thornbird;Furnariidae
+637;Phacellodomus sibilatrix;Espinero chico;Little Thornbird;Furnariidae
+638;Phacellodomus maculipectus;Espinero serrano;Spot-breasted Thornbird;Furnariidae
+639;Phacellodomus striaticollis;Espinero pecho manchado;Freckle-breasted Thornbird;Furnariidae
+640;Phacellodomus ruber;Espinero grande;Greater Thornbird;Furnariidae
+641;Phacellodomus ferrugineigula;Espinero pecho naranja;Orange-breasted Thornbird;Furnariidae
+642;Anumbius annumbi;Leñatero;Firewoodgatherer;Furnariidae
+643;Coryphistera alaudina;Crestudo;Lark-like Brushrunner;Furnariidae
+644;Asthenes dorbignyi;Canastero rojizo;Creamy-breasted Canastero;Furnariidae
+645;Asthenes baeri;Canastero chaqueño;Short-billed Canastero;Furnariidae
+646;Asthenes hudsoni;Espartillero pampeano;Hudson's Canastero;Furnariidae
+647;Asthenes anthoides;Espartillero austral;Austral Canastero;Furnariidae
+648;Asthenes maculicauda;Espartillero estriado;Scribble-tailed Canastero;Furnariidae
+649;Asthenes sclateri;Espartillero serrano;Puna Canastero;Furnariidae
+650;Asthenes modesta;Canastero pálido;Cordilleran Canastero;Furnariidae
+651;Asthenes pyrrholeuca;Canastero coludo;Sharp-billed Canastero;Furnariidae
+652;Asthenes heterura;Canastero quebradeño;Maquis Canastero;Furnariidae
+653;Limnoctites rectirostris;Pajonalera pico recto;Straight-billed Reedhaunter;Furnariidae
+654;Limnoctites sulphuriferus;Curutié ocráceo;Sulphur-throated Spinetail;Furnariidae
+655;Cranioleuca pyrrhophia;Curutié blanco;Stripe-crowned Spinetail;Furnariidae
+656;Cranioleuca obsoleta;Curutié olivaceo;Olive Spinetail;Furnariidae
+657;Pseudasthenes humicola;Canastero estriado;Dusky-tailed Canastero;Furnariidae
+658;Pseudasthenes patagonica;Canastero patagónico;Patagonian Canastero;Furnariidae
+659;Pseudasthenes steinbachi;Canastero castaño;Steinbach's Canastero;Furnariidae
+660;Spartonoica maluroides;Espartillero enano;Bay-capped Wren-Spinetail;Furnariidae
+661;Pseudoseisura lophotes;Cacholote castaño;Brown Cacholote;Furnariidae
+662;Pseudoseisura gutturalis;Cacholote pardo;White-throated Cacholote;Furnariidae
+663;Schoeniophylax phryganophilus;Chotoy;Chotoy Spinetail;Furnariidae
+664;Certhiaxis cinnamomeus;Curutié colorado;Yellow-chinned Spinetail;Furnariidae
+665;Synallaxis scutata;Pijuí canela;Ochre-cheeked Spinetail;Furnariidae
+666;Synallaxis cinerascens;Pijuí negruzco;Gray-bellied Spinetail;Furnariidae
+667;Synallaxis ruficapilla;Pijuí corona rojiza;Rufous-capped Spinetail;Furnariidae
+668;Synallaxis spixi;Pijuí plomizo;Spix's Spinetail;Furnariidae
+669;Synallaxis albescens;Pijuí cola parda;Pale-breasted Spinetail;Furnariidae
+670;Synallaxis frontalis;Pijuí frente gris;Sooty-fronted Spinetail;Furnariidae
+671;Synallaxis azarae;Pijuí ceja canela;Azara's Spinetail;Furnariidae
+672;Phyllomyias burmeisteri;Mosqueta pico curvo;Rough-legged Tyrannulet;Tyrannidae
+673;Phyllomyias virescens;Mosqueta corona oliva;Greenish Tyrannulet;Tyrannidae
+674;Phyllomyias sclateri;Mosqueta corona gris;Sclater's Tyrannulet;Tyrannidae
+675;Phyllomyias fasciatus;Mosqueta olivácea;Planalto Tyran-nulet;Tyrannidae
+676;Myiopagis caniceps;Fiofío ceniciento;Gray Elaenia;Tyrannidae
+677;Myiopagis viridicata;Fiofío corona dorada;Greenish Elaenia;Tyrannidae
+678;Elaenia flavogaster;Fiofío copetón;Yellow-bellied Elaenia;Tyrannidae
+679;Elaenia spectabilis;Fiofío grande;Large Elaenia;Tyrannidae
+680;Elaenia albiceps;Fiofío silbón;White-crested Elaenia;Tyrannidae
+681;Elaenia parvirostris;Fiofío pico corto;Small-billed Elaenia;Tyrannidae
+682;Elaenia mesoleuca;Fiofío oliváceo;Olivaceous Elaenia;Tyrannidae
+683;Elaenia strepera;Fiofio plomizo;Slaty Elaenia;Tyrannidae
+684;Elaenia chiriquensis;Fiofío belicoso;Lesser Elaenia;Tyrannidae
+685;Elaenia obscura;Fiofío oscuro;Highland Elaenia;Tyrannidae
+686;Camptostoma obsoletum;Piojito silbón;Southern Bear-less-Tyrannulet;Tyrannidae
+687;Suiriri suiriri;Suirirí común;Suiriri Flycatcher;Tyrannidae
+688;Mecocerculus hellmayri;Piojito de los pinos;Buff-banded Tyrannulet;Tyrannidae
+689;Mecocerculus leucophrys;Piojito gargantilla;White-throated Tyrannulet;Tyrannidae
+690;Anairetes flavirostris;Cachudito pico amarillo;Yellow-billed Tit-Tyrant;Tyrannidae
+691;Anairetes parulus;Cachudito pico negro;Tufted Tit- Tyrant;Tyrannidae
+692;Serpophaga nigricans;Piojito gris;Sooty Tyrannulet;Tyrannidae
+693;Serpophaga subcristata;Piojito común;White-crested Tyrannulet;Tyrannidae
+694;Serpophaga munda;Piojito vientre blanco;White-bellied Tyrannulet;Tyrannidae
+695;Serpophaga griseicapilla;Piojito trinador;Straneck's Tyrannulet;Tyrannidae
+696;Phaeomyias murina;Piojito pardo;Mouse-colored Tyrannulet;Tyrannidae
+697;Capsiempis flaveola;Mosqueta ceja amarilla;Yellow Tyrannulet;Tyrannidae
+698;Polystictus pectoralis;Tachurí canela;Bearded Tachuri;Tyrannidae
+699;Pseudocolopteryx sclateri;Doradito copetón;Crested Doradito;Tyrannidae
+700;Pseudocolopteryx acutipennis;Doradito oliváceo;Subtropical Doradito;Tyrannidae
+701;Pseudocolopteryx dinelliana;Doradito pardo;Dinelli's Doradito;Tyrannidae
+702;Pseudocolopteryx flaviventris;Doradito común;Warbling Doradito;Tyrannidae
+703;Pseudocolopteryx citreola;Doradito limón;Ticking Doradito;Tyrannidae
+704;Corythopis delalandi;Mosquitero;Southern Antpipit;Tyrannidae
+705;Euscarthmus meloryphus;Barullero;Tawny-crowned Pygmy-Tyrant;Tyrannidae
+706;Stigmatura budytoides;Calandrita;Greater Wagtail-Tyrant;Tyrannidae
+707;Phylloscartes eximius;Mosqueta media luna;Southern Bristle-Tyrant;Tyrannidae
+708;Phylloscartes ventralis;Mosqueta común;Mottle-cheeked Tyrannulet;Tyrannidae
+709;Phylloscartes paulista;Mosqueta oreja negra;Sao Paulo Tyrannulet;Tyrannidae
+710;Phylloscartes sylviolus;Mosqueta cara canela;Bay-ringed Tyrannulet;Tyrannidae
+711;Mionectes rufiventris;Ladrillito;Gray-hooded Flycatcher;Tyrannidae
+712;Leptopogon amaurocephalus;Mosqueta corona parda;Sepia-capped Flycatcher;Tyrannidae
+713;Sublegatus modestus;Suirirí pico corto;Southern ScrubFlycatcher;Tyrannidae
+714;Inezia inornata;Piojito picudo;Plain Tyrannulet;Tyrannidae
+715;Tachuris rubrigastra;Tachurí sietecolores;Many-colored Rush Tyrant;Tyrannidae
+716;Culicivora caudacuta;Tachurí coludo;Sharp-tailed Tyrant;Tyrannidae
+717;Myiornis auricularis;Mosqueta enana;Eared Pygmy-Tyrant;Tyrannidae
+718;Hemitriccus diops;Mosqueta de anteojos;Drab-breasted Pygmy-Tyrant;Tyrannidae
+719;Hemitriccus obsoletus;Mosqueta ojo grande;Brown-breasted Pygmy-Tyrant;Tyrannidae
+720;Hemitriccus margaritaceiventer;Mosqueta ojo dorado;Pearly-vented Tody-Tyrant;Tyrannidae
+721;Poecilotriccus plumbeiceps;Mosqueta cabeza canela;Ochre-faced Tody-Flycatcher;Tyrannidae
+722;Todirostrum cinereum;Mosqueta amarilla;Common Tody-Flycatcher;Tyrannidae
+723;Tolmomyias sulphurescens;Picochato grande;Yellow-olive Flycatcher;Tyrannidae
+724;Platyrinchus mystaceus;Picochato enano;White-throated Spadebill;Tyrannidae
+725;Platyrinchus leucoryphus;Picochato chico;Russet-winged Spadebill;Tyrannidae
+726;Myiophobus fasciatus;Mosqueta estriada;Bran-colored Flycatcher;Tyrannidae
+727;Pyrrhomyias cinnamomeus;Birro chico;Cinnamon Flycatcher;Tyrannidae
+728;Hirundinea ferruginea;Birro común;Cliff Flycatcher;Tyrannidae
+729;Lathrotriccus euleri;Mosqueta parda;Euler's Flycatcher;Tyrannidae
+730;Cnemotriccus fuscatus;Mosqueta ceja blanca;Fuscous Flycatcher;Tyrannidae
+731;Empidonax alnorum;Mosqueta boreal;Alder Flycatcher;Tyrannidae
+732;Contopus fumigatus;Burlisto copetón;Smoke-colored Pewee;Tyrannidae
+733;Contopus cinereus;Burlisto chico;Tropical Pewee;Tyrannidae
+734;Sayornis nigricans;Viudita de río;Black Phoebe;Tyrannidae
+735;Pyrocephalus rubinus;Churrinche;Vermilion Flycatcher;Tyrannidae
+736;Lessonia rufa;Sobrepuesto común;Austral Negrito;Tyrannidae
+737;Lessonia oreas;Sobrepuesto andino;Andean Negrito;Tyrannidae
+738;Knipolegus cabanisi;Viudita yungueña;Plumbeous Black-Tyrant;Tyrannidae
+739;Knipolegus cyanirostris;Viudita pico celeste;Blue-billed Black-Tyrant;Tyrannidae
+740;Knipolegus striaticeps;Viudita chaqueña;Cinereous Tyrant;Tyrannidae
+741;Knipolegus aterrimus;Viudita común;White-winged Black-Tyrant;Tyrannidae
+742;Knipolegus hudsoni;Viudita chica;Hudson's Black-Tyrant;Tyrannidae
+743;Hymenops perspicillatus;Pico de plata;Spectacled Tyrant;Tyrannidae
+744;Satrapa icterophrys;Suirirí amarillo;Yellow-browed Tyrant;Tyrannidae
+745;Muscisaxicola maculirostris;Dormilona chica;Spot-billed Ground-Tyrant;Tyrannidae
+746;Muscisaxicola juninensis;Dormilona puneña;Puna Ground-Tyrant;Tyrannidae
+747;Muscisaxicola cinereus;Dormilona cenicienta;Cinereous Ground-Tyrant;Tyrannidae
+748;Muscisaxicola flavinucha;Dormilona fraile;Ochre-naped Ground-Tyrant;Tyrannidae
+749;Muscisaxicola rufivertex;Dormilona gris;Rufous-naped Ground-Tyrant;Tyrannidae
+750;Muscisaxicola maclovianus;Dormilona cara negra;Dark-faced Ground-Tyrant;Tyrannidae
+751;Muscisaxicola albilora;Dormilona ceja blanca;White-browed Ground-Tyrant;Tyrannidae
+752;Muscisaxicola capistratus;Dormilona canela;Cinnamon-bellied Ground-Tyrant;Tyrannidae
+753;Muscisaxicola frontalis;Dormilona frente negra;Black-fronted Ground-Tyrant;Tyrannidae
+754;Agriornis montanus;Gaucho serrano;Black-billed Shrike-Tyrant;Tyrannidae
+755;Agriornis albicauda;Gaucho andino;White-tailed Shrike-Tyrant;Tyrannidae
+756;Agriornis lividus;Gaucho grande;Great Shrike-Tyrant;Tyrannidae
+757;Agriornis micropterus;Gaucho común;Gray-bellied Shrike-Tyrant;Tyrannidae
+758;Agriornis murinus;Gaucho chico;Lesser Shrike-Tyrant;Tyrannidae
+759;Xolmis pyrope;Diucón;Fire-eyed Diucon;Tyrannidae
+760;Xolmis cinereus;Monjita gris;Gray Monjita;Tyrannidae
+761;Xolmis coronatus;Monjita coronada;Black-crowned Monjita;Tyrannidae
+762;Xolmis irupero;Monjita blanca;White Monjita;Tyrannidae
+763;Xolmis salinarum;Monjita salinera;Salinas Monjita;Tyrannidae
+764;Xolmis rubetra;Monjita castaña;Rusty-backed Monjita;Tyrannidae
+765;Xolmis dominicanus;Monjita dominica;Black-and-white Monjita;Tyrannidae
+766;Myiotheretes striaticollis;Birro grande;Streak-throated Bush-Tyrant;Tyrannidae
+767;Polioxolmis rufipennis;Birro gris;Rufous-webbed Bush-Tyrant;Tyrannidae
+768;Neoxolmis rufiventris;Monjita chocolate;Chocolate-vented Tyrant;Tyrannidae
+769;Gubernetes yetapa;Yetapá grande;Streamer-tailed Tyrant;Tyrannidae
+770;Muscipipra vetula;Viudita coluda;Shear-tailed Gray Tyrant;Tyrannidae
+771;Fluvicola albiventer;Viudita blanca;Black-backed Water-Tyrant;Tyrannidae
+772;Fluvicola nengeta;Viudita enmascarada;Masked Water-Tyrant;Tyrannidae
+773;Arundinicola leucocephala;Lavandera;White-headed Marsh Tyrant;Tyrannidae
+774;Alectrurus tricolor;Yetapá chico;Cock-tailed Tyrant;Tyrannidae
+775;Alectrurus risora;Yetapá de collar;Strange-tailed Tyrant;Tyrannidae
+776;Ochthoeca oenanthoides;Pitajo canela;d'Orbigny's Chat-Tyrant;Tyrannidae
+777;Ochthoeca leucophrys;Pitajo gris;White-browed Chat-Tyrant;Tyrannidae
+778;Colorhamphus parvirostris;Peutrén;Patagonian Tyrant;Tyrannidae
+779;Colonia colonus;Yetapá negro;Long-tailed Tyrant;Tyrannidae
+780;Machetornis rixosa;Picabuey;Cattle Tyrant;Tyrannidae
+781;Legatus leucophaius;Tuquito chico;Piratic Flycatcher;Tyrannidae
+782;Myiozetetes similis;Benteveo mediano;Social Flycatcher;Tyrannidae
+783;Pitangus sulphuratus;Benteveo común;Great Kiskadee;Tyrannidae
+784;Pitangus lictor;Benteveo pico fino;Lesser Kiska-dee;Tyrannidae
+785;Conopias trivirgatus;Benteveo chico;Three-striped Flycatcher;Tyrannidae
+786;Myiodynastes chrysocephalus;Benteveo de barbijo;Golden-crowned Flycatcher;Tyrannidae
+787;Myiodynastes maculatus;Benteveo rayado;Streaked Flycatcher;Tyrannidae
+788;Megarynchus pitangua;Pitanguá;Boat-billed Flycatcher;Tyrannidae
+789;Empidonomus varius;Tuquito rayado;Variegated Flycatcher;Tyrannidae
+790;Empidonomus aurantioatrocristatus;Tuquito gris;Crowned Slaty Flycatcher;Tyrannidae
+791;Tyrannus melancholicus;Suirirí real;Tropical Kingbird;Tyrannidae
+792;Tyrannus savana;Tijereta;Fork-tailed Flycatcher;Tyrannidae
+793;Tyrannus tyrannus;Suirirí boreal;Eastern Kingbird;Tyrannidae
+794;Sirystes sibilator;Suirirí silbón;Sibilant Sirystes;Tyrannidae
+795;Casiornis rufus;Burlisto castaño;Rufous Casiornis;Tyrannidae
+796;Myiarchus tuberculifer;Burlisto corona negra;Dusky-capped Flycatcher;Tyrannidae
+797;Myiarchus swainsoni;Burlisto pico canela;Swainson's Flycatcher;Tyrannidae
+798;Myiarchus ferox;Burlisto pico negro;Short-crested Flycatcher;Tyrannidae
+799;Myiarchus tyrannulus;Burlisto cola castaña;Brown-crested Flycatcher;Tyrannidae
+800;Ramphotrigon megacephalum;Picochato cabezón;Large-headed Flatbill;Tyrannidae
+801;Attila phoenicurus;Burlisto cabeza gris;Rufous-tailed Attila;Tyrannidae
+802;Oxyruncus cristatus;Picoagudo;Sharpbill;Oxyruncidae
+803;Phytotoma rutila;Cortarramas;White-tipped Plantcutter;Cotingidae
+804;Phytotoma rara;Rara;Rufous-tailed Plantcutter;Cotingidae
+805;Pyroderus scutatus;Yacutoro;Red-ruffed Fruitcrow;Cotingidae
+806;Procnias nudicollis;Pájaro campana;Bare-throated Bellbird;Cotingidae
+807;Chiroxiphia boliviana;Bailarín yungueño;Yungas Manakin;Pipridae
+808;Chiroxiphia caudata;Bailarín azul;Swallow-tailed Manakin;Pipridae
+809;Manacus manacus;Bailarín blanco;White-bearded Manakin;Pipridae
+810;Pipra fasciicauda;Bailarín naranja;Band-tailed Manakin;Pipridae
+811;Tityra inquisitor;Tueré chico;Black-crowned Tityra;Tityridae
+812;Tityra cayana;Tueré grande;Black-tailed Tityra;Tityridae
+813;Tityra semifasciata;Tueré enmascarado;Masked Tityra;Tityridae
+814;Schiffornis virescens;Bailarín oliváceo;Greenish Schiffornis;Tityridae
+815;Xenopsaris albinucha;Tijerilla;White-naped Xenopsaris;Tityridae
+816;Pachyramphus viridis;Anambé verdoso;Green-backed Becard;Tityridae
+817;Pachyramphus castaneus;Anambé castaño;Chestnut-crowned Becard;Tityridae
+818;Pachyramphus validus;Anambé grande;Crested Becard;Tityridae
+819;Pachyramphus polychopterus;Anambé común;White-winged Becard;Tityridae
+820;Phibalura flavirostris;Tesorito;Swallow-tailed Cotinga;Cotingidae
+821;Piprites chloris;Bailarín verde;Wing-barred Piprites;Tyrannidae
+822;Piprites pileata;Bailarín castaño;Black-capped Piprites;Tyrannidae
+823;Cyclarhis gujanensis;Juan chiviro;Rufous-browed Peppershrike;Vireonidae
+824;Hylophilus poicilotis;Chiví coronado;Rufous-crowned Greenlet;Vireonidae
+825;Vireo chivi;Chiví común;Red-eyed Vireo;Vireonidae
+826;Cyanocorax cyanomelas;Urraca morada;Purplish Jay;Corvidae
+827;Cyanocorax caeruleus;Urraca azul;Azure Jay;Corvidae
+828;Cyanocorax chrysops;Urraca común;Plush-crested Jay;Corvidae
+829;Pygochelidon cyanoleuca;Golondrina barranquera;Blue-and-white Swallow;Hirundinidae
+830;Pygochelidon melanoleuca;Golondrina de collar;Black-collared Swallow;Hirundinidae
+831;Alopochelidon fucata;Golondrina cabeza rojiza;Tawny-headed Swallow;Hirundinidae
+832;Orochelidon andecola;Golondrina andina;Andean Swallow;Hirundinidae
+833;Stelgidopteryx ruficollis;Golondrina ribereña;Southern Roughwinged Swallow;Hirundinidae
+834;Progne tapera;Golondrina parda;Brown-chested Martin;Hirundinidae
+835;Progne subis;Golondrina purpúrea;Purple Martin;Hirundinidae
+836;Progne chalybea;Golondrina doméstica;Gray-breasted Martin;Hirundinidae
+837;Progne elegans;Golondrina negra;Southern Martin;Hirundinidae
+838;Tachycineta albiventer;Golondrina ala blanca;White-winged Swallow;Hirundinidae
+839;Tachycineta leucorrhoa;Golondrina ceja blanca;White-rumped Swallow;Hirundinidae
+840;Tachycineta leucopyga;Golondrina patagónica;Chilean Swallow;Hirundinidae
+841;Riparia riparia;Golondrina zapadora;Bank Swallow;Hirundinidae
+842;Hirundo rustica;Golondrina tijerita;Barn Swallow;Hirundinidae
+843;Petrochelidon pyrrhonota;Golondrina rabadilla canela;Cliff Swallow;Hirundinidae
+844;Troglodytes aedon;Ratona común;House Wren;Troglodytidae
+845;Troglodytes cobbi;Ratona de Malvinas;Cobb's Wren;Troglodytidae
+846;Troglodytes solstitialis;Ratona ceja blanca;Mountain Wren;Troglodytidae
+847;Cistothorus platensis;Ratona aperdizada;Sedge Wren;Troglodytidae
+848;Campylorhynchus turdinus;Ratona grande;Thrush-like Wren;Troglodytidae
+849;Polioptila lactea;Tacuarita blanca;Creamy-bellied Gnatcatcher;Polioptilidae
+850;Polioptila dumicola;Tacuarita azul;Masked Gnatcatcher;Polioptilidae
+851;Donacobius atricapilla;Angú;Black-capped Donacobius;Donacobiidae
+852;Cinclus schulzii;Mirlo de agua;Rufous-throated Dipper;Cinclidae
+853;Catharus dryas;Zorzalito overo;Spotted Nightingale-Thrush;Turdidae
+854;Catharus fuscescens;Zorzalito rojizo;Veery;Turdidae
+855;Catharus ustulatus;Zorzalito boreal;Swainson's Thrush;Turdidae
+856;Turdus falcklandii;Zorzal patagónico;Austral Thrush;Turdidae
+857;Turdus flavipes;Zorzal azulado;Yellow-legged Thrush;Turdidae
+858;Turdus leucomelas;Zorzal sabiá;Pale-breasted Thrush;Turdidae
+859;Turdus fumigatus;Zorzal chocolate;Cocoa Thrush;Turdidae
+860;Turdus rufiventris;Zorzal colorado;Rufous-bellied Thrush;Turdidae
+861;Turdus amaurochalinus;Zorzal chalchalero;Creamy-bellied Thrush;Turdidae
+862;Turdus nigriceps;Zorzal herrero;Andean Slaty Thrush;Turdidae
+863;Turdus subalaris;Zorzal plomizo;Eastern Slaty Thrush;Turdidae
+864;Turdus chiguanco;Zorzal chiguanco;Chiguanco Thrush;Turdidae
+865;Turdus serranus;Zorzal negro;Glossy-black Thrush;Turdidae
+866;Turdus albicollis;Zorzal collar blanco;White-necked Thrush;Turdidae
+867;Mimus thenca;Tenca;Chilean Mockingbird;Mimidae
+868;Mimus patagonicus;Calandria mora;Patagonian Mockingbird;Mimidae
+869;Mimus saturninus;Calandria grande;Chalk-browed Mockingbird;Mimidae
+870;Mimus triurus;Calandria real;White-banded Mockingbird;Mimidae
+871;Mimus dorsalis;Calandria castaña;Brown-backed Mockingbird;Mimidae
+872;Acridotheres cristatellus;Estornino crestado;Crested Myna;Sturnidae
+873;Sturnus vulgaris;Estornino pinto;European Starling;Sturnidae
+874;Anthus lutescens;Cachirla chica;Yellowish Pipit;Motacillidae
+875;Anthus furcatus;Cachirla uña corta;Short-billed Pipit;Motacillidae
+876;Anthus chacoensis;Cachirla trinadora;Pampas Pipit;Motacillidae
+877;Anthus correndera;Cachirla común;Correndera Pipit;Motacillidae
+878;Anthus nattereri;Cachirla dorada;Ochre-breasted Pipit;Motacillidae
+879;Anthus hellmayri;Cachirla pálida;Hellmayr's Pipit;Motacillidae
+880;Anthus bogotensis;Cachirla andina;Paramo Pipit;Motacillidae
+881;Anthus antarcticus;Cachirla grande;South Georgia Pipit;Motacillidae
+882;Paroaria coronata;Cardenal común;Red-crested Cardinal;Thraupidae
+883;Paroaria capitata;Cardenilla;Yellow-billed Cardinal;Thraupidae
+884;Schistochlamys ruficapillus;Frutero canela;Cinnamon Tanager;Thraupidae
+885;Cissopis leverianus;Frutero overo;Magpie Tanager;Thraupidae
+886;Nemosia pileata;Frutero cabeza negra;Hooded Tanager;Thraupidae
+887;Thlypopsis sordida;Tangará gris;Orange-headed Tanager;Thraupidae
+888;Thlypopsis ruficeps;Tangará alisero;Rust-and-yellow Tanager;Thraupidae
+889;Thlypopsis pyrrhocoma;Pioró;Chestnutheaded Tanager;Thraupidae
+890;Trichothraupis melanops;Frutero corona amarilla;Black-goggled Tanager;Thraupidae
+891;Tachyphonus coronatus;Frutero coronado;Ruby-crowned Tanager;Thraupidae
+892;Tachyphonus rufus;Frutero negro;White-lined Tanager;Thraupidae
+893;Ramphocelus carbo;Fueguero oscuro;Silver-beaked Tanager;Thraupidae
+894;Pseudosaltator rufiventris;Pepitero colorado;Rufous-bellied Mountain-Tanager;Thraupidae
+895;Stephanophorus diadematus;Frutero azul;Diademed Tanager;Thraupidae
+896;Pipraeidea melanonota;Saíra de antifaz;Fawn-breasted Tanager;Thraupidae
+897;Pipraeidea bonariensis;Naranjero;Blue-and-yellow Tanager;Thraupidae
+898;Thraupis sayaca;Celestino común;Sayaca Tanager;Thraupidae
+899;Thraupis palmarum;Celestino olivaceo;Palm Tanager;Thraupidae
+900;Stilpnia preciosa;Saíra castaña;Chestnut-backed Tanager;Thraupidae
+901;Stilpnia cayana;Saíra pecho negro;Burnished-buff Tanager;Thraupidae
+902;Tangara seledon;Saíra arcoiris;Green-headed Tanager;Thraupidae
+903;Tersina viridis;Tersina;Swallow Tanager;Thraupidae
+904;Dacnis cayana;Saí azul;Blue Dacnis;Thraupidae
+905;Hemithraupis guira;Saíra dorada;Guira Tanager;Thraupidae
+906;Conirostrum speciosum;Saí común;Chestnut-vented Conebill;Thraupidae
+907;Conirostrum binghami;Saí grande;Giant Conebill;Thraupidae
+908;Diglossa carbonaria;Payador negro;Gray-bellied Flowerpiercer;Thraupidae
+909;Diglossa sittoides;Payador canela;Rusty Flowerpiercer;Thraupidae
+910;Catamblyrhynchus diadema;Diadema;Plushcap;Thraupidae
+911;Phrygilus atriceps;Comesebo cabeza negra;Black-hooded Sierra-Finch;Thraupidae
+912;Phrygilus gayi;Comesebo andino;Gray-hooded Sierra-Finch;Thraupidae
+913;Phrygilus patagonicus;Comesebo patagónico;Patagonian Sierra-Finch;Thraupidae
+914;Rhopospina fruticeti;Yal negro;Mourning Sierra-Finch;Thraupidae
+915;Geospizopsis unicolor;Yal plomizo;Plumbeous Sierra-Finch;Thraupidae
+916;Idiopsar dorsalis;Comesebo puneño;Red-backed Sierra-Finch;Thraupidae
+917;Geospizopsis plebejus;Yal chico;Ash-breasted Sierra-Finch;Thraupidae
+918;Porphyrospiza carbonaria;Yal carbonero;Carbonated Sierra-Finch;Thraupidae
+919;Porphyrospiza alaudina;Yal platero;Band-tailed Sierra-Finch;Thraupidae
+920;Idiopsar brachyurus;Yal grande;Short-tailed Finch;Thraupidae
+921;Idiopsar speculifer;Diuca ala blanca;White-winged Diuca-Finch;Thraupidae
+922;Diuca diuca;Diuca común;Common Diuca-Finch;Thraupidae
+923;Melanodera melanodera;Yal austral;White-bridled Finch;Thraupidae
+924;Melanodera xanthogramma;Yal andino;Yellow-bridled Finch;Thraupidae
+925;Haplospiza unicolor;Afrechero plomizo;Uniform Finch;Thraupidae
+926;Lophospingus pusillus;Soldadito común;Black-crested Finch;Thraupidae
+927;Lophospingus griseocristatus;Soldadito gris;Gray-crested Finch;Thraupidae
+928;Donacospiza albifrons;Cachilo canela;Long-tailed Reed Finch;Thraupidae
+929;Poospiza boliviana;Monterita quebradeña;Bolivian Warbling-Finch;Thraupidae
+930;Poospizopsis hypochondria;Monterita pecho gris;Rufous-sided Warbling-Finch;Thraupidae
+931;Microspingus erythrophrys;Monterita ceja rojiza;Rusty-browed Warbling-Finch;Thraupidae
+932;Poospiza ornata;Monterita canela;Cinnamon Warbling-Finch;Thraupidae
+933;Poospiza nigrorufa;Sietevestidos común;Black-and-rufous Warbling-Finch;Thraupidae
+934;Poospiza whitii;Sietevestidos serrano;Black-and-chestnut Warblinh-Finch;Thraupidae
+935;Microspingus cabanisi;Monterita litoraleña;Gray-throated Warbling-Finch;Thraupidae
+936;Microspingus torquatus;Monterita de collar;Ringed Warbling-Finch;Thraupidae
+937;Microspingus melanoleucus;Monterita cabeza negra;Black-capped Warbling-Finch;Thraupidae
+938;Poospiza baeri;Monterita serrana;Tucuman Mountain-Finch;Thraupidae
+939;Sicalis citrina;Jilguero cola blanca;Stripe-tailed Yellow-Finch;Thraupidae
+940;Sicalis lutea;Jilguero puneño;Puna Yellow-Finch;Thraupidae
+941;Sicalis uropygialis;Jilguero cara gris;Bright-rumped Yellow-Finch;Thraupidae
+942;Sicalis luteocephala;Jilguero corona gris;Citron-headed Yellow-Finch;Thraupidae
+943;Sicalis auriventris;Jilguero grande;Greater Yellow-Finch;Thraupidae
+944;Sicalis olivascens;Jilguero oliváceo;Greenish Yellow-Finch;Thraupidae
+945;Sicalis mendozae;Jilgero del monte;Monte Yellow-Finch;Thraupidae
+946;Sicalis lebruni;Jilguero austral;Patagonian Yellow-Finch;Thraupidae
+947;Sicalis flaveola;Jilguero dorado;Saffron Finch;Thraupidae
+948;Sicalis luteola;Misto;Grassland Yellow-Finch;Thraupidae
+949;Emberizoides herbicola;Coludo grande;Wedge-tailed Grass-Finch;Thraupidae
+950;Emberizoides ypiranganus;Coludo chico;Lesser Grass-Finch;Thraupidae
+951;Embernagra platensis;Verdón;Great Pampa-Finch;Thraupidae
+952;Volatinia jacarina;Volatinero;Blue-black Grassquit;Thraupidae
+953;Sporophila lineola;Corbatita overo;Lined Seedeater;Thraupidae
+954;Sporophila leucoptera;Corbatita blanco;White-bellied Seedeater;Thraupidae
+955;Sporophila pileata;Capuchino boina negra;Pearly-bellied Seedeater;Thraupidae
+956;Sporophila hypoxantha;Capuchino canela;Tawny-bellied Seedeater;Thraupidae
+957;Sporophila ruficollis;Capuchino garganta café;Dark-throated Seedeater;Thraupidae
+958;Sporophila palustris;Capuchino pecho blanco;Marsh Seedeater;Thraupidae
+959;Sporophila hypochroma;Capuchino castaño;Rufous-rumped Seedeater;Thraupidae
+960;Sporophila cinnamomea;Capuchino corona gris;Chestnut Seedeater;Thraupidae
+961;Sporophila angolensis;Curió;Chestnut-bellied Seed-Finch;Thraupidae
+962;Sporophila nigricollis;Corbatita amarillo;Yellow-bellied Seedeater;Thraupidae
+963;Sporophila caerulescens;Corbatita común;Double-collared Seedeater;Thraupidae
+964;Sporophila falcirostris;Corbatita picudo;Temminck's Seedeater;Thraupidae
+965;Sporophila frontalis;Corbatita oliváceo;Buffy-fronted Seedeater;Thraupidae
+966;Sporophila collaris;Corbatita dominó;Rusty-collared Seedeater;Thraupidae
+967;Sporophila iberaensis;Capuchino iberá;Iberá seedeater;Thraupidae
+968;Catamenia analis;Piquitodeoro común;Band-tailed Seedeater;Thraupidae
+969;Catamenia inornata;Piquitodeoro grande;Plain-colored Seedeater;Thraupidae
+970;Coryphaspiza melanotis;Cachilo de antifaz;Black-masked Finch;Thraupidae
+971;Coryphospingus cucullatus;Brasita de fuego;Red-crested Finch;Thraupidae
+972;Gubernatrix cristata;Cardenal amarillo;Yellow Cardinal;Thraupidae
+973;Coereba flaveola;Mielero;Bananaquit;Thraupidae
+974;Asemospiza obscura;Espiguero pardo;Dull-colored Grassquit;Thraupidae
+975;Asemospiza fuliginosa;Espiguero negro;Sooty Grassquit;Thraupidae
+976;Saltatricula multicolor;Pepitero chico;Many-colored Chaco Finch;Thraupidae
+977;Saltator coerulescens;Pepitero gris;Grayish Saltator;Thraupidae
+978;Saltator similis;Pepitero verdoso;Green-winged Saltator;Thraupidae
+979;Saltator maxillosus;Pepitero picudo;Thick-billed Saltator;Thraupidae
+980;Saltator aurantiirostris;Pepitero de collar;Golden-billed Saltator;Thraupidae
+981;Saltator fuliginosus;Pepitero negro;Black-throated Grosbeak;Thraupidae
+982;Chlorospingus flavopectus;Frutero yungueño;Common Chlorospingus;Emberizidae
+983;Rhynchospiza strigiceps;Cachilo corona castaña;Stripe-capped Sparrow;Emberizidae
+984;Ammodramus humeralis;Cachilo ceja amarilla;Grassland Sparrow;Emberizidae
+985;Arremon torquatus;Cerquero vientre blanco;White-browed Brushfinch;Emberizidae
+986;Arremon flavirostris;Cerquero de collar;Saffron-billed Sparrow;Emberizidae
+987;Zonotrichia capensis;Chingolo;Rufous-collared Sparrow;Emberizidae
+988;Atlapetes fulviceps;Cerquero cabeza castaña;Fulvous-headed Brushfinch;Emberizidae
+989;Atlapetes citrinellus;Cerquero amarillo;Yellow-striped Brushfinch;Emberizidae
+990;Piranga flava;Fueguero común;Hepatic Tanager;Cardinalidae
+991;Habia rubica;Fueguero morado;Red-crowned Ant-Tanager;Cardinalidae
+992;Pheucticus aureoventris;Rey del bosque;Black-backed Grosbeak;Cardinalidae
+993;Amaurospiza moesta;Reinamora enana;Blackish-blue Seedeater;Cardinalidae
+994;Cyanoloxia glaucocaerulea;Reinamora chica;Glaucous-blue Grosbeak;Cardinalidae
+995;Cyanoloxia brissonii;Reinamora grande;Ultramarine Grosbeak;Cardinalidae
+996;Geothlypis aequinoctialis;Arañero cara negra;Masked Yellowthroat;Parulidae
+997;Setophaga pitiayumi;Pitiayumí;Tropical Parula;Parulidae
+998;Setophaga striata;Arañero estriado;Blackpoll Warbler;Parulidae
+999;Myiothlypis flaveola;Arañero pico pálido;Flavescent Warbler;Parulidae
+1000;Myiothlypis leucoblephara;Arañero silbón;White-browed Warbler;Parulidae
+1001;Myiothlypis signata;Arañero ceja amarilla;Pale-legged Warbler;Parulidae
+1002;Myiothlypis rivularis;Arañero ribereño;Riverbank Warbler;Parulidae
+1003;Myiothlypis bivittata;Arañero coronado grande;Two-banded Warbler;Parulidae
+1004;Basileuterus culicivorus;Arañero coronado chico;Golden-crowned Warbler;Parulidae
+1005;Myioborus brunniceps;Arañero corona rojiza;Brown-capped Redstart;Parulidae
+1006;Psarocolius decumanus;Yapú;Crested Oropendola;Icteridae
+1007;Cacicus solitarius;Boyero negro;Solitary Black Cacique;Icteridae
+1008;Cacicus chrysopterus;Boyero ala amarilla;Golden-winged Cacique;Icteridae
+1009;Cacicus haemorrhous;Boyero cacique;Red-rumped Cacique;Icteridae
+1010;Icterus croconotus;Matico;Orange-backed Troupial;Icteridae
+1011;Icterus pyrrhopterus;Boyerito;Variable Oriole;Icteridae
+1012;Gnorimopsar chopi;Chopí;Chopi Blackbird;Icteridae
+1013;Curaeus curaeus;Tordo patagónico;Austral Blackbird;Icteridae
+1014;Amblyramphus holosericeus;Federal;Scarlet-headed Blackbird;Icteridae
+1015;Agelasticus cyanopus;Varillero negro;Unicolored Blackbird;Icteridae
+1016;Agelasticus thilius;Varillero ala amarilla;Yellow-winged Blackbird;Icteridae
+1017;Chrysomus ruficapillus;Varillero congo;Chestnut-capped Blackbird;Icteridae
+1018;Xanthopsar flavus;Tordo amarillo;Saffron-cowled Blackbird;Icteridae
+1019;Pseudoleistes guirahuro;Pecho amarillo grande;Yellow-rumped Marshbird;Icteridae
+1020;Pseudoleistes virescens;Pecho amarillo chico;Brown-and-yellow Marshbird;Icteridae
+1021;Agelaioides badius;Tordo músico;Grayish Baywing;Icteridae
+1022;Molothrus rufoaxillaris;Tordo pico corto;Screaming Cowbird;Icteridae
+1023;Molothrus oryzivorus;Tordo gigante;Giant Cowbird;Icteridae
+1024;Molothrus bonariensis;Tordo renegrido;Shiny Cowbird;Icteridae
+1025;Dolichonyx oryzivorus;Charlatán;Bobolink;Icteridae
+1026;Leistes superciliaris;Pecho colorado;White-browed Meadowlark;Icteridae
+1027;Leistes defilippii;Loica pampeana;Pampas Meadowlark;Icteridae
+1028;Leistes loyca;Loica común;Long-tailed Meadowlark;Icteridae
+1029;Chloris chloris;Verderón;European Greenfinch;Fringillidae
+1030;Carduelis carduelis;Cardelino;European Goldfinch;Fringillidae
+1031;Spinus crassirostris;Cabecitanegra picudo;Thick-billed Siskin;Fringillidae
+1032;Spinus magellanicus;Cabecitanegra común;Hooded Siskin;Fringillidae
+1033;Spinus atratus;Negrillo;Black Siskin;Fringillidae
+1034;Spinus uropygialis;Cabecitanegra andino;Yellow-rumped Siskin;Fringillidae
+1035;Spinus barbatus;Cabecitanegra austral;Black-chinned Siskin;Fringillidae
+1036;Euphonia chlorotica;Tangará común;Purple-throated Euphonia;Fringillidae
+1037;Euphonia violacea;Tangará amarillo;Violaceous Euphonia;Fringillidae
+1038;Euphonia chalybea;Tangará picudo;Green-throated Euphonia;Fringillidae
+1039;Euphonia cyanocephala;Tangará cabeza celeste;Golden-rumped Euphonia;Fringillidae
+1040;Euphonia pectoralis;Tangará alcalde;Chestnut-bellied Euphonia;Fringillidae
+1041;Chlorophonia cyanea;Tangará bonito;Blue-naped Chlorophonia;Fringillidae
+1042;Passer domesticus;Gorrión;House Sparrow;Passeridae
+1043;Icterus jamacaii;Corrupiao Turpial;Campo Troupial;Icteridae
+1044;Anas platyrhynchos;Anade real;Mallard Duck;Anatidae
+1045;Dives warszewiczi;Tordo de matorral;Scrub Blackbird;Icteridae
+1046;Aix galericulata;Pato mandarín;Mandarin duck;Anatidae
+1047;Schistochlamys melanopis;Frutero cara negra;Black-faced Tanager;Thraupidae
+1048;Taoniscus nanus;Inambú enano;Dwarf Tinamou;Tinamidae
+1049;Geothlypis trichas;Arañero de vincha;Common Yellowthroat;Parulidae
+1050;Gallinago magellanica;Becasina patagónica;Magellanic Snipe;Scolopacidae
+1051;Rhynchospiza dabbenei;Cachilo Vallisto;Yungas Sparrow;Emberizidae
+1052;Elaenia sordida;Fiofío paranaense;Brazilian Elaenia;Tyrannidae
+1053;Xolmis velatus;Monjita velada;White-rumped Monjita;Tyrannidae
+1054;Sporophila albogularis;Corbatita garganta blanca;White-throated Seedeater;Thraupidae
+1055;Penelope bridgesi;Pava de Monte Yungueña;Yungas Guan;Cracidae
+1056;Arremon dorbignii;Cerquero Yungueño;Stripe-crowned Sparrow;Emberizidae
+1057;Syndactyla cabanisi;Ticotico Yungueño;-;Furnariidae
