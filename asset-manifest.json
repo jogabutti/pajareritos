@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/pajareritos/static/css/main.afebf420.css",
-    "main.js": "/pajareritos/static/js/main.dc87806e.js",
+    "main.js": "/pajareritos/static/js/main.2c47b1b7.js",
     "index.html": "/pajareritos/index.html",
     "main.afebf420.css.map": "/pajareritos/static/css/main.afebf420.css.map",
-    "main.dc87806e.js.map": "/pajareritos/static/js/main.dc87806e.js.map"
+    "main.2c47b1b7.js.map": "/pajareritos/static/js/main.2c47b1b7.js.map"
   },
   "entrypoints": [
     "static/css/main.afebf420.css",
-    "static/js/main.dc87806e.js"
+    "static/js/main.2c47b1b7.js"
   ]
 }
