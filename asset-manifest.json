@@ -1,15 +1,13 @@
 {
   "files": {
-    "main.css": "/pajareritos/static/css/main.2e2fab37.css",
-    "main.js": "/pajareritos/static/js/main.86328f3a.js",
-    "static/js/453.80513b57.chunk.js": "/pajareritos/static/js/453.80513b57.chunk.js",
+    "main.css": "/pajareritos/static/css/main.afebf420.css",
+    "main.js": "/pajareritos/static/js/main.dc87806e.js",
     "index.html": "/pajareritos/index.html",
-    "main.2e2fab37.css.map": "/pajareritos/static/css/main.2e2fab37.css.map",
-    "main.86328f3a.js.map": "/pajareritos/static/js/main.86328f3a.js.map",
-    "453.80513b57.chunk.js.map": "/pajareritos/static/js/453.80513b57.chunk.js.map"
+    "main.afebf420.css.map": "/pajareritos/static/css/main.afebf420.css.map",
+    "main.dc87806e.js.map": "/pajareritos/static/js/main.dc87806e.js.map"
   },
   "entrypoints": [
-    "static/css/main.2e2fab37.css",
-    "static/js/main.86328f3a.js"
+    "static/css/main.afebf420.css",
+    "static/js/main.dc87806e.js"
   ]
 }
